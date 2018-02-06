@@ -1,0 +1,59 @@
+{
+  "build_id": "20180206-162659/master@d2951c48+", 
+  "build_timestamp": "2018-02-06T16:26:59Z", 
+  "name": "doorbell-c", 
+  "parts": {
+    "app": {
+      "addr": 65536, 
+      "cs_sha1": "34b25f1dae8627acbb058e9124e7f1f8cf335695", 
+      "encrypt": true, 
+      "size": 1387824, 
+      "src": "doorbell-c.bin", 
+      "type": "app"
+    }, 
+    "boot": {
+      "addr": 4096, 
+      "cs_sha1": "9a7147905f3a2e5a3c962c77deba7bfc1bfc00bf", 
+      "encrypt": true, 
+      "size": 19696, 
+      "src": "bootloader.bin", 
+      "type": "boot", 
+      "update": false
+    }, 
+    "fs": {
+      "addr": 1638400, 
+      "cs_sha1": "90d940234128eac4f0fd6d8ae21465f876d72cd4", 
+      "fs_block_size": 4096, 
+      "fs_erase_size": 4096, 
+      "fs_page_size": 256, 
+      "fs_size": 262144, 
+      "size": 262144, 
+      "src": "fs.img", 
+      "type": "fs"
+    }, 
+    "nvs": {
+      "addr": 36864, 
+      "encrypt": false, 
+      "fill": 255, 
+      "size": 16384, 
+      "type": "nvs"
+    }, 
+    "otadata": {
+      "addr": 53248, 
+      "encrypt": true, 
+      "fill": 255, 
+      "size": 8192, 
+      "type": "otadata"
+    }, 
+    "pt": {
+      "addr": 32768, 
+      "cs_sha1": "dbd4148f29e309f1090a1e960b1b9e2de4a58f05", 
+      "encrypt": true, 
+      "size": 3072, 
+      "src": "partitions_mgos.bin", 
+      "type": "pt"
+    }
+  }, 
+  "platform": "esp32", 
+  "version": "1.0"
+}

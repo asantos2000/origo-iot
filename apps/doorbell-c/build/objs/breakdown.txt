@@ -1,0 +1,7 @@
+mOS code: 834802
+SDK code: 533177
+Total code: 1367979
+mOS static ram: 46633
+SDK static ram: 17333
+Total static ram: 63966
+Total: 1431945

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "origo-iot-apps",
+  "private_key_id": "ba433e3bd1617c977806df4f4daa5b1ee6a17630",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRYU5OQC8HxRRR\n60+oe5Gz58/StzRNW4fTr0eRqqvGm/SctzuIoi13EvLCng6DAImAOf9h+ysQ0Z5N\n/ZlZ0VP1XhlJAi94lDOJIZRrSMJ1+lroElOy6ycCU3Msbogcb/Xtm4NmpfU/eonr\nKKh87jKwZM64T90VRI6tgaPOWHZpSSlfAGepwzOU4sC1gX3ksgdXiUx0GR7PxGhR\n9erYvRl3ASOboTbCC5sbIOIRaBdA3/kIjogoUAzVH0+UagmehN5b2+LAr33xP181\nl5fac534XEoGkUpyTIeIVW0TWeK5Cna9VZWTkTy5UFR1FVmfM3DYczD/mxo77tcA\nMm98vcS7AgMBAAECggEAGn3ZToVIbg89du/y8DpSQRT/coXDlFYUZXAz+fZCLarl\n1D5Kxgre/cXj+UPOSjzzKMotydPhqwsaoHuJv5eAq/bv9BDWuMbnjl41TS2zjQHU\nJrDK7kRadyzf0atahV6VGy8l/QLaeOGkOaC3ULdCqpbWoPNZ4ar+8m0IsL74nHFu\nuD4Dy0oqZ+W2L02yX9amHXpsF2k1fVvPZ1O3wGyiZY4Hy4Th7NEw+eKByO8NB2zU\nEGyRHELV0zq+VpeY/NrvxCHo8BaxaafRbELYVGqtqIFBvTB6f23d1rZOyZv8C7vc\nInYy/1T88ABjcDb4fS3bb4QZ5HkA8WYu8XZGpLdQQQKBgQDo0XnhUiVj2y+g4oZT\nRnbRk/gYwAMousPX8MDR89lylHGowNWyGBZWALhCfKIXYifEFltJ/dwsMstvy0YZ\n+t4dioy3ai68/aYXO3bvCtFWWfMARnNU9eS19fEAnsIwOc7RoK6Bfldm51iVFWGE\ntmkFE863u4rusviZcoEGaRIFyQKBgQDmOmRwkToZwdi5qhvXFvmy26Gzlco7h3CM\nVMMEwqt/yzUKrPVWbNtH+NWtbfiSIdeW9eKtp23DDj4XUOwhZIyNuG99xOqp+J+7\nMXGm+0HkO4b7ApxsyFeaGxgPGP/AFwIZ/NfQHWB65i36YnfqhBJl6+1qDv7WX92n\npP7WRn1IYwKBgEb3u4g0axNSN+V5x2pQ+10NFr4soYnjzFjhmVUmWK01lKPVDA66\niuxyUbhql1o7YFXEXtViHaAXZ63PL7Ixp00n85bhNhgD1YIVbT6WdJM23fzCfNt0\nDOBudKU0v4rFxEZgDXGJmojSkkz3dH9ovwB+NjAJaeMzCNZ1ceELXCQJAoGALupZ\nS2MczuDktDkJAVTKP3toQTtWAbmA4ufm8dJltl4Higxi1mDKcqkvie7uB4Fj+HxU\n3ARRZr1BQ+kWpVtjFQIvnhaBp29lxXS270smS0ciI4aNr9FHoLzCs1jpzRAjOn5+\n0AccgQ7k8bAdNaoCQcjJEaLKpY7VkXMbBzlIEHcCgYEA4OchuP07eu2FbyUI+T4S\nek3/AYrnbEIa3UtgWuGcjhOkzx4o35zh8PtsnrKNZvcGwVomft2MMhXgm9KPVCP7\n2y4SJ/XfVMln+c0ysY76jitT/vKIbuLJh7QfEY92GlaW9n5GTxBCPTS+VWB5k9n9\nL7EDFPBSIGKpdClsu2e50RI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "adsantos@origo-iot-apps.iam.gserviceaccount.com",
+  "client_id": "108873090255886097112",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adsantos%40origo-iot-apps.iam.gserviceaccount.com"
+}

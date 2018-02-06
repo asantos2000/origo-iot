@@ -1,0 +1,1249 @@
+Handling lib "demo-bundle"...
+The --lib flag was not given for it, checking repository
+Prebuilt binary for "demo-bundle" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/demo-bundle"
+Handling lib "ota-http-server"...
+Handling lib "rpc-uart"...
+Handling lib "i2c"...
+Handling lib "pppos"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Handling lib "shadow"...
+The --lib flag was not given for it, checking repository
+Handling lib "rpc-service-config"...
+Handling lib "wifi"...
+The --lib flag was not given for it, checking repository
+Handling lib "rpc-service-fs"...
+The --lib flag was not given for it, checking repository
+Handling lib "sntp"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Handling lib "rpc-loopback"...
+The --lib flag was not given for it, checking repository
+Handling lib "atca"...
+The --lib flag was not given for it, checking repository
+Handling lib "bt-service-config"...
+The --lib flag was not given for it, checking repository
+Handling lib "rpc-mqtt"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Handling lib "rpc-service-atca"...
+Handling lib "dht"...
+Handling lib "bt-service-debug"...
+Handling lib "esp32-touchpad"...
+Handling lib "rpc-service-gpio"...
+Handling lib "ethernet"...
+Handling lib "rpc-service-wifi"...
+Handling lib "rpc-gatts"...
+Handling lib "rpc-service-ota"...
+Handling lib "dns-sd"...
+Handling lib "pwm"...
+Handling lib "rpc-service-i2c"...
+Handling lib "gcp"...
+Handling lib "adc"...
+Handling lib "spi"...
+Handling lib "vfs-dev-spi-flash"...
+Handling lib "aws"...
+The --lib flag was not given for it, checking repository
+Handling lib "ca-bundle"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Handling lib "dash"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Handling lib "http-server"...
+Handling lib "ota-shadow"...
+Handling lib "ota-http-client"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Prebuilt binary for "rpc-mqtt" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt"
+Prebuilt binary for "sntp" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp"
+Handling lib "rpc-common"...
+The --lib flag was not given for it, checking repository
+Handling lib "mqtt"...
+Prebuilt binary for "rpc-service-config" already exists
+Prebuilt binary for "ca-bundle" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle"
+Prebuilt binary for "bt-service-config" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-config"
+The --lib flag was not given for it, checking repository
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config"
+Lib "rpc-common" is already handled, skipping
+Prebuilt binary for "rpc-loopback" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback"
+Lib "rpc-common" is already handled, skipping
+Prebuilt binary for "rpc-service-wifi" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-wifi"
+Prebuilt binary for "dash" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash"
+Prebuilt binary for "ethernet" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet"
+Prebuilt binary for "rpc-service-atca" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-atca"
+Lib "ota-shadow" is already handled, skipping
+Lib "rpc-common" is already handled, skipping
+Lib "shadow" is already handled, skipping
+Handling lib "bt-common"...
+The --lib flag was not given for it, checking repository
+Lib "rpc-common" is already handled, skipping
+Lib "wifi" is already handled, skipping
+Prebuilt binary for "bt-service-debug" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-debug"
+Lib "atca" is already handled, skipping
+Lib "rpc-common" is already handled, skipping
+Lib "bt-common" is already handled, skipping
+Prebuilt binary for "rpc-service-ota" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota"
+Prebuilt binary for "pppos" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos"
+Lib "ota-http-client" is already handled, skipping
+Lib "rpc-common" is already handled, skipping
+Prebuilt binary for "gcp" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp"
+Lib "mqtt" is already handled, skipping
+Prebuilt binary for "rpc-gatts" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-gatts"
+Lib "bt-common" is already handled, skipping
+Lib "rpc-common" is already handled, skipping
+Lib "ca-bundle" is already handled, skipping
+Prebuilt binary for "rpc-service-fs" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs"
+Lib "rpc-common" is already handled, skipping
+Prebuilt binary for "ota-http-server" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server"
+Lib "http-server" is already handled, skipping
+Lib "ota-http-client" is already handled, skipping
+Prebuilt binary for "rpc-uart" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart"
+Lib "rpc-common" is already handled, skipping
+Prebuilt binary for "vfs-dev-spi-flash" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash"
+Lib "spi" is already handled, skipping
+Prebuilt binary for "aws" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws"
+Lib "ca-bundle" is already handled, skipping
+Lib "mqtt" is already handled, skipping
+Lib "shadow" is already handled, skipping
+Prebuilt binary for "dht" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht"
+Prebuilt binary for "rpc-service-i2c" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c"
+Prebuilt binary for "esp32-touchpad" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/esp32-touchpad"
+Prebuilt binary for "ota-http-client" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client"
+Lib "i2c" is already handled, skipping
+Lib "rpc-common" is already handled, skipping
+Prebuilt binary for "mqtt" already exists
+Prebuilt binary for "rpc-service-gpio" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt"
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio"
+Lib "rpc-common" is already handled, skipping
+Prebuilt binary for "pwm" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm"
+Prebuilt binary for "spi" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi"
+Prebuilt binary for "i2c" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c"
+Prebuilt binary for "adc" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc"
+Prebuilt binary for "bt-common" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common"
+Prebuilt binary for "ota-shadow" already exists
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-shadow"
+Lib "shadow" is already handled, skipping
+Falling back to sources for "wifi" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/wifi/releases/download/1.25/libwifi-esp32.a)
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi"
+Falling back to sources for "atca" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/atca/releases/download/1.25/libatca-esp32.a)
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca"
+Lib "i2c" is already handled, skipping
+Falling back to sources for "dns-sd" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/dns-sd/releases/download/1.25/libdns-sd-esp32.a)
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd"
+Lib "http-server" is already handled, skipping
+Falling back to sources for "rpc-common" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/rpc-common/releases/download/1.25/librpc-common-esp32.a)
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common"
+Lib "http-server" is optional, skipping
+Falling back to sources for "http-server" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/http-server/releases/download/1.25/libhttp-server-esp32.a)
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server"
+Lib "wifi" is optional, skipping
+Lib "atca" is optional, skipping
+Lib "ethernet" is optional, skipping
+Successfully fetched prebuilt binary for "shadow" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/lib/esp32/libshadow.a"
+Prepared local dir: "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow"
+The flag --repo is not given, going to use mongoose-os repository
+Sources: [/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/src/main.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/deps_init.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/esp32/src/esp32_adc.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/src/mgos_i2c.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/esp32/src/esp32_i2c_master.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/src/mgos_atca.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/src/mgos_ca_bundle.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/src/mgos_mqtt.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/src/mgos_shadow.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws_greengrass.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws_shadow.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/mgos_bt.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gap.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gattc.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gatts.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-config/src/esp32/esp32_bt_svc_config.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-debug/src/esp32/esp32_bt_svc_debug.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/mgos_eth.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/esp32/esp32_eth.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src/mgos_wifi.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src/mjs_wifi.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/src/esp32_wifi.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/src/mgos_http_server.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel_http.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel_ws.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mgos_rpc.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/src/mgos_dht.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/src/mgos_dns_sd.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/esp32-touchpad/src/esp32_touchpad.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/src/mgos_gcp.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/src/mgos_pppos.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/mgos_pwm.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/esp32/esp32_pwm.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-gatts/src/esp32/esp32_rpc_channel_gatts.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/src/mg_rpc_channel_loopback.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/src/mgos_rpc_channel_mqtt.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-atca/src/mgos_atca_service.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/src/mgos_service_config.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/src/mgos_service_filesystem.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/src/mgos_gpio_service.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/src/mgos_i2c_service.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-wifi/src/mgos_rpc_service_wifi.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/src/mgos_rpc_channel_uart.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/src/mgos_sntp.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/mgos_spi.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/mgos_spi_mjs.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/esp32/esp32_spi_master.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/src/mgos_vfs_dev_spi_flash.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/demo-bundle/src/mgos_demo_bundle.c]
+Include dirs: [/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include/esp32 /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include/mg_rpc /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/include]
+Binary libs: [/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-shadow/lib/esp32/libota-shadow.a /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/lib/esp32/libdash.a /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/lib/esp32/libota-http-client.a /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/lib/esp32/libota-http-server.a /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/lib/esp32/librpc-service-ota.a]
+Building...
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps" to "/app"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mongoose-os" to "/mongoose-os"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mongoose-os" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mongoose-os"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/esp32/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/esp32/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/esp32/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/esp32/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-config/src/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-config/src/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-debug/src/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-debug/src/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/esp32-touchpad/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/esp32-touchpad/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-gatts/src/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-gatts/src/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-atca/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-atca/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-wifi/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-wifi/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/demo-bundle/src" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/demo-bundle/src"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include/mg_rpc" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include/mg_rpc"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/include" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/include"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/fs" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/fs"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/fs" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/fs"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-shadow/lib/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-shadow/lib/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/lib/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/lib/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/lib/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/lib/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/lib/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/lib/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/lib/esp32" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/lib/esp32"
+mount from "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen" to "/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen"
+Docker arguments: run --name mos_build_2018-02-06T14-14-58-00_4234259571700220705 --rm -i -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/lib/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/lib/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include/mg_rpc:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include/mg_rpc -v /Users/anderson/Dropbox/anderson-cloud/apps:/app -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/lib/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/lib/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-gatts/src/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-gatts/src/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/lib/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/lib/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mongoose-os:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mongoose-os -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mongoose-os:/mongoose-os -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/esp32/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/esp32/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-config/src/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-config/src/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-wifi/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-wifi/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/demo-bundle/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/demo-bundle/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/esp32/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/esp32/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-debug/src/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-debug/src/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/esp32-touchpad/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/esp32-touchpad/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-atca/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-atca/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/fs:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/fs -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/lib/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/lib/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/include:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/include -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/fs:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/fs -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-shadow/lib/esp32:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-shadow/lib/esp32 -v /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src:/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src docker.cesanta.com/esp32-build:3.0-rc1-r1 /bin/bash -c nice make '-j' '4' '-C' '/app/doorbell-c' '-f' '/mongoose-os/fw/platforms/esp32/Makefile.build' 'all' 'MGOS_HAVE_BT_COMMON=1' 'MANIFEST_FINAL=/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/mos_final.yml' 'APP_CONF_SCHEMA=/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/mos_conf_schema.yml' 'MGOS_HAVE_ADC=1' 'MGOS_HAVE_ATCA=1' 'MGOS_HAVE_RPC_SERVICE_WIFI=1' 'MGOS_HAVE_MQTT=1' 'MGOS_WIFI_ENABLE_AP_STA=1' 'MGOS_PATH=/mongoose-os' 'MGOS_HAVE_ESP32_TOUCHPAD=1' 'ESP_IDF_SDKCONFIG_OPTS= CONFIG_BT_ENABLED=y CONFIG_BLUEDROID_ENABLED=y CONFIG_BTC_TASK_STACK_SIZE=6144 CONFIG_BLUEDROID_MEM_DEBUG= CONFIG_CLASSIC_BT_ENABLED= CONFIG_BT_DRAM_RELEASE=y CONFIG_GATTS_ENABLE=y CONFIG_GATTC_ENABLE=y CONFIG_BLE_SMP_ENABLE=y CONFIG_BT_STACK_NO_LOG= CONFIG_BT_ACL_CONNECTIONS=4 CONFIG_BTDM_CONTROLLER_RUN_CPU=0 CONFIG_SMP_ENABLE=y CONFIG_BT_RESERVE_DRAM=0x10000  CONFIG_PPP_SUPPORT=y' 'MGOS_HAVE_BT_SERVICE_CONFIG=1' 'MGOS_ENABLE_SPI_GPIO=0' 'PLATFORM=esp32' 'MGOS_HAVE_RPC_UART=1' 'MGOS_HAVE_DASH=1' 'MGOS_HAVE_RPC_LOOPBACK=1' 'MGOS_HAVE_RPC_COMMON=1' 'MGOS_HAVE_WIFI=1' 'APP_FS_FILES=/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/fs/ca.pem /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/fs/index.html' 'MGOS_HAVE_RPC_SERVICE_FS=1' 'MGOS_HAVE_RPC_SERVICE_I2C=1' 'MGOS_HAVE_OTA_HTTP_CLIENT=1' 'MGOS_HAVE_RPC_SERVICE_ATCA=1' 'MGOS_HAVE_DNS_SD=1' 'MGOS_HAVE_DEMO_BUNDLE=1' 'MGOS_HAVE_RPC_GATTS=1' 'MGOS_ENABLE_MDNS=1' 'MGOS_HAVE_RPC_SERVICE_GPIO=1' 'APP_INCLUDES=/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include/esp32 /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include/mg_rpc /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/include /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/include' 'APP=doorbell-c' 'MGOS_HAVE_ETHERNET=1' 'GEN_DIR=/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen' 'MGOS_HAVE_RPC_SERVICE_OTA=1' 'ESP_IDF_EXTRA_COMPONENTS= bt' 'MGOS_HAVE_CA_BUNDLE=1' 'APP_SOURCES=/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/src/main.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/deps_init.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/esp32/src/esp32_adc.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/src/mgos_i2c.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/esp32/src/esp32_i2c_master.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/src/mgos_atca.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/src/mgos_ca_bundle.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/src/mgos_mqtt.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/src/mgos_shadow.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws_greengrass.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws_shadow.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/mgos_bt.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gap.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gattc.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gatts.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-config/src/esp32/esp32_bt_svc_config.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-debug/src/esp32/esp32_bt_svc_debug.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/mgos_eth.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/esp32/esp32_eth.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src/mgos_wifi.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src/mjs_wifi.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/src/esp32_wifi.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/src/mgos_http_server.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel_http.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel_ws.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mgos_rpc.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/src/mgos_dht.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/src/mgos_dns_sd.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/esp32-touchpad/src/esp32_touchpad.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/src/mgos_gcp.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/src/mgos_pppos.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/mgos_pwm.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/esp32/esp32_pwm.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-gatts/src/esp32/esp32_rpc_channel_gatts.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/src/mg_rpc_channel_loopback.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/src/mgos_rpc_channel_mqtt.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-atca/src/mgos_atca_service.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/src/mgos_service_config.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/src/mgos_service_filesystem.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/src/mgos_gpio_service.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/src/mgos_i2c_service.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-wifi/src/mgos_rpc_service_wifi.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/src/mgos_rpc_channel_uart.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/src/mgos_sntp.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/mgos_spi.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/mgos_spi_mjs.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/esp32/esp32_spi_master.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/src/mgos_vfs_dev_spi_flash.c /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/demo-bundle/src/mgos_demo_bundle.c' 'MGOS_HAVE_HTTP_SERVER=1' 'FFI_SYMBOLS=' 'MGOS_HAVE_BT_SERVICE_DEBUG=1' 'MGOS_HAVE_OTA_HTTP_SERVER=1' 'MGOS_HAVE_PPPOS=1' 'MGOS_ENABLE_I2C_GPIO=0' 'MGOS_HAVE_AWS=1' 'MGOS_HAVE_GCP=1' 'MGOS_HAVE_SPI=1' 'MGOS_ENABLE_UPDATER=1' 'APP_CFLAGS=-DMGOS_HAVE_RPC_GATTS=1 -DMGOS_HAVE_PPPOS=1 -DMGOS_HAVE_BT_SERVICE_CONFIG=1 -DMGOS_HAVE_DEMO_BUNDLE=1 -DMGOS_HAVE_VFS_DEV_SPI_FLASH=1 -DMGOS_ENABLE_WEB_CONFIG=0 -DMGOS_HAVE_OTA_HTTP_SERVER=1 -DMGOS_HAVE_WIFI=1 -DMGOS_HAVE_RPC_SERVICE_I2C=1 -DMGOS_HAVE_HTTP_SERVER=1 -DMGOS_HAVE_SPI=1 -DMG_ENABLE_MQTT=1 -DMGOS_HAVE_RPC_COMMON=1 -DMGOS_HAVE_MQTT=1 -DMGOS_HAVE_BT_SERVICE_DEBUG=1 -DMGOS_HAVE_AWS=1 -DMGOS_HAVE_RPC_SERVICE_FS=1 -DMGOS_HAVE_RPC_SERVICE_ATCA=1 -DMGOS_HAVE_RPC_UART=1 -DMGOS_HAVE_ADC=1 -DMGOS_HAVE_OTA_HTTP_CLIENT=1 -DMGOS_HAVE_I2C=1 -DMGOS_HAVE_DNS_SD=1 -DMGOS_HAVE_BT_COMMON=1 -DMGOS_ENABLE_FILE_UPLOAD=1 -DMGOS_HAVE_DHT=1 -DMG_ENABLE_DNS_SERVER=1 -DMGOS_ENABLE_RPC_CHANNEL_WS=1 -DMGOS_ETH_PHY_LAN87x0=1 -DMGOS_ENABLE_TUNNEL=0 -DMGOS_ENABLE_SYS_SERVICE=1 -DMGOS_HAVE_RPC_SERVICE_WIFI=1 -DMG_ENABLE_SNTP=1 -DMGOS_HAVE_DASH=1 -DMGOS_HAVE_RPC_SERVICE_GPIO=1 -DMGOS_HAVE_ESP32_TOUCHPAD=1 -DMGOS_HAVE_ETHERNET=1 -DMGOS_WIFI_ENABLE_AP_STA=1 -DMGOS_HAVE_SNTP=1 -DMGOS_HAVE_ATCA=1 -DMGOS_HAVE_RPC_MQTT=1 -DMGOS_HAVE_RPC_SERVICE_OTA=1 -DMGOS_HAVE_CA_BUNDLE=1 -DMGOS_HAVE_OTA_SHADOW=1 -DMGOS_HAVE_GCP=1 -DMGOS_HAVE_SHADOW=1 -DMGOS_HAVE_RPC_LOOPBACK=1 -DMGOS_ENABLE_RPC_CHANNEL_HTTP=1 -DMGOS_HAVE_RPC_SERVICE_CONFIG=1 -DMGOS_HAVE_PWM=1' 'APP_VERSION=1.0' 'MGOS_HAVE_DHT=1' 'MGOS_HAVE_SNTP=1' 'MGOS_HAVE_RPC_MQTT=1' 'MGOS_HAVE_I2C=1' 'FS_STAGING_DIR=build/fs' 'MGOS_HAVE_RPC_SERVICE_CONFIG=1' 'MGOS_HAVE_VFS_DEV_SPI_FLASH=1' 'APP_CXXFLAGS=-DMGOS_ENABLE_SYS_SERVICE=1 -DMGOS_HAVE_BT_COMMON=1 -DMGOS_ENABLE_FILE_UPLOAD=1 -DMGOS_HAVE_DHT=1 -DMG_ENABLE_DNS_SERVER=1 -DMGOS_ENABLE_RPC_CHANNEL_WS=1 -DMGOS_ETH_PHY_LAN87x0=1 -DMGOS_ENABLE_TUNNEL=0 -DMGOS_HAVE_RPC_SERVICE_WIFI=1 -DMGOS_HAVE_ESP32_TOUCHPAD=1 -DMG_ENABLE_SNTP=1 -DMGOS_HAVE_DASH=1 -DMGOS_HAVE_RPC_SERVICE_GPIO=1 -DMGOS_HAVE_CA_BUNDLE=1 -DMGOS_HAVE_ETHERNET=1 -DMGOS_WIFI_ENABLE_AP_STA=1 -DMGOS_HAVE_SNTP=1 -DMGOS_HAVE_ATCA=1 -DMGOS_HAVE_RPC_MQTT=1 -DMGOS_HAVE_RPC_SERVICE_OTA=1 -DMGOS_HAVE_PWM=1 -DMGOS_HAVE_OTA_SHADOW=1 -DMGOS_HAVE_GCP=1 -DMGOS_HAVE_SHADOW=1 -DMGOS_HAVE_RPC_LOOPBACK=1 -DMGOS_ENABLE_RPC_CHANNEL_HTTP=1 -DMGOS_HAVE_RPC_SERVICE_CONFIG=1 -DMGOS_ENABLE_WEB_CONFIG=0 -DMGOS_HAVE_RPC_GATTS=1 -DMGOS_HAVE_PPPOS=1 -DMGOS_HAVE_BT_SERVICE_CONFIG=1 -DMGOS_HAVE_DEMO_BUNDLE=1 -DMGOS_HAVE_VFS_DEV_SPI_FLASH=1 -DMGOS_HAVE_RPC_SERVICE_I2C=1 -DMGOS_HAVE_OTA_HTTP_SERVER=1 -DMGOS_HAVE_WIFI=1 -DMGOS_HAVE_AWS=1 -DMGOS_HAVE_HTTP_SERVER=1 -DMGOS_HAVE_SPI=1 -DMG_ENABLE_MQTT=1 -DMGOS_HAVE_RPC_COMMON=1 -DMGOS_HAVE_MQTT=1 -DMGOS_HAVE_BT_SERVICE_DEBUG=1 -DMGOS_HAVE_DNS_SD=1 -DMGOS_HAVE_RPC_SERVICE_FS=1 -DMGOS_HAVE_RPC_SERVICE_ATCA=1 -DMGOS_HAVE_RPC_UART=1 -DMGOS_HAVE_ADC=1 -DMGOS_HAVE_OTA_HTTP_CLIENT=1 -DMGOS_HAVE_I2C=1' 'FW_DIR=build/fw' 'MGOS_HAVE_PWM=1' 'MGOS_HAVE_OTA_SHADOW=1' 'MGOS_HAVE_SHADOW=1' 'BUILD_DIR=/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs' 'APP_BIN_LIBS=/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-shadow/lib/esp32/libota-shadow.a /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/lib/esp32/libdash.a /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/lib/esp32/libota-http-client.a /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/lib/esp32/libota-http-server.a /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/lib/esp32/librpc-service-ota.a'
+Unable to find image 'docker.cesanta.com/esp32-build:3.0-rc1-r1' locally
+3.0-rc1-r1: Pulling from esp32-build
+bd97b43c27e3: Already exists
+6960dc1aba18: Already exists
+2b61829b0db5: Already exists
+1f88dc826b14: Already exists
+73b3859b1e43: Already exists
+22ad2716d481: Already exists
+b918807cc5b7: Pulling fs layer
+ad953c81867a: Pulling fs layer
+111cdeee9798: Pulling fs layer
+33f92f92fbba: Pulling fs layer
+0f8ddf969027: Pulling fs layer
+d7f8af58685f: Pulling fs layer
+2b6d0aaecced: Pulling fs layer
+02565c0f21e8: Pulling fs layer
+a2c51666c566: Pulling fs layer
+d7f8af58685f: Waiting
+2b6d0aaecced: Waiting
+02565c0f21e8: Waiting
+a2c51666c566: Waiting
+33f92f92fbba: Waiting
+0f8ddf969027: Waiting
+ad953c81867a: Verifying Checksum
+ad953c81867a: Download complete
+33f92f92fbba: Verifying Checksum
+33f92f92fbba: Download complete
+111cdeee9798: Verifying Checksum
+111cdeee9798: Download complete
+d7f8af58685f: Verifying Checksum
+d7f8af58685f: Download complete
+2b6d0aaecced: Verifying Checksum
+2b6d0aaecced: Download complete
+02565c0f21e8: Download complete
+a2c51666c566: Verifying Checksum
+a2c51666c566: Download complete
+b918807cc5b7: Verifying Checksum
+b918807cc5b7: Download complete
+0f8ddf969027: Verifying Checksum
+0f8ddf969027: Download complete
+b918807cc5b7: Pull complete
+ad953c81867a: Pull complete
+111cdeee9798: Pull complete
+33f92f92fbba: Pull complete
+0f8ddf969027: Pull complete
+d7f8af58685f: Pull complete
+2b6d0aaecced: Pull complete
+02565c0f21e8: Pull complete
+a2c51666c566: Pull complete
+Digest: sha256:40a07d0e11522e3f510ef7dd039acd9a871b53dcdd69218c96a4749f5dbb8c94
+Status: Downloaded newer image for docker.cesanta.com/esp32-build:3.0-rc1-r1
+make: Entering directory '/app/doorbell-c'
+including /opt/Espressif/esp-idf/components/bootloader/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/bootloader_support/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/esp32/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/esptool_py/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/partition_table/Makefile.projbuild...
+/mongoose-os/fw/platforms/esp32/Makefile.build:181: warning: overriding recipe for target 'defconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:71: warning: ignoring old recipe for target 'defconfig'
+/mongoose-os/fw/platforms/esp32/Makefile.build:181: warning: overriding recipe for target 'menuconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:58: warning: ignoring old recipe for target 'menuconfig'
+#
+# configuration written to /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/sdkconfig
+#
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cs_mbedtls'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cs_mbedtls'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/xtensa-debug-module'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/xtensa-debug-module'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/vfs'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/vfs'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/tcpip_adapter'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/tcpip_adapter'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/partition_table'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/partition_table'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/mosapp'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/mosapp'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/micro-ecc'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/log'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/micro-ecc'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/log'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esptool_py'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esptool_py'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp_adc_cal'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp_adc_cal'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cxx'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_update'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cxx'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_update'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace'
+including /opt/Espressif/esp-idf/components/bootloader/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/bootloader_support/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/esp32/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/esptool_py/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/partition_table/Makefile.projbuild...
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cs_mbedtls'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cs_mbedtls'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/xtensa-debug-module'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/xtensa-debug-module'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/vfs'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/vfs'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/tcpip_adapter'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/tcpip_adapter'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/partition_table'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/partition_table'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/micro-ecc'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/mosapp'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/mosapp'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/micro-ecc'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/log'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/log'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esptool_py'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esptool_py'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp_adc_cal'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cxx'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp_adc_cal'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cxx'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_update'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_update'
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace'
+including /opt/Espressif/esp-idf/components/bootloader/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/bootloader_support/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/esp32/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/esptool_py/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/partition_table/Makefile.projbuild...
+Building partitions from /mongoose-os/fw/platforms/esp32/src/partitions_mgos.csv...
+make[1]: Entering directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_update'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_update/esp_ota_ops.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace/app_trace_util.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/esp_ota_select.o
+including /opt/Espressif/esp-idf/components/esptool_py/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/bootloader_support/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/bootloader/subproject/main/Makefile.projbuild...
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/bootloader_flash.o
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/main'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace/host_file_io.o
+Building component project variables list /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/main/component_project_vars.mk
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/main'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/efuse.o
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/soc'
+Building component project variables list /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/soc/component_project_vars.mk
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/soc'
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/micro-ecc'
+Building component project variables list /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/micro-ecc/component_project_vars.mk
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_update/libapp_update.a
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/spi_flash'
+Building component project variables list /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/spi_flash/component_project_vars.mk
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_update'
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/spi_flash'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cxx'
+CXX /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cxx/cxx_guards.o
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/log'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/secure_boot.o
+Building component project variables list /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/log/component_project_vars.mk
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace/app_trace.o
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/log'
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/bootloader_support'
+Building component project variables list /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/bootloader_support/component_project_vars.mk
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/esptool_py'
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/esptool_py'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/bootloader_clock.o
+including /opt/Espressif/esp-idf/components/esptool_py/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/bootloader_support/Makefile.projbuild...
+including /opt/Espressif/esp-idf/components/bootloader/subproject/main/Makefile.projbuild...
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/bootloader_support'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace/gcov/gcov_rtio.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/secure_boot_signatures.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/flash_partitions.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace/libapp_trace.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/spi_master.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/esp_image_format.o
+CXX /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cxx/cxx_exception_stubs.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cxx/libcxx.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cxx'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/bootloader_sha.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp_adc_cal'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp_adc_cal/esp_adc_cal_lookup_tables.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/flash_encrypt.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp_adc_cal/esp_adc_cal.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/sigmadelta.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp_adc_cal/libesp_adc_cal.a
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/src/bootloader_random.o
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp_adc_cal'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/panic.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/uart.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/libbootloader_support.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet/emac_dev.o
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/log'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet/emac_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/stack_check.o
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/log'
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/spi_flash'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/i2s.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/core_dump.o
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/spi_flash'
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/micro-ecc'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet/eth_phy/phy_common.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/lib_printf.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet/eth_phy/phy_lan8720.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/sdspi_transaction.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/task_wdt.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet/eth_phy/phy_tlk110.o
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/soc'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/ledc.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet/libethernet.a
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/smartconfig.o
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/sleep_modes.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/spi_common.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/spiram.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/cpu_start.o
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/soc'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/sdspi_host.o
+make[2]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/main'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/restore.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/int_wdt.o
+make[2]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/main'
+Target 'component-bootloader_support-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/bootloader_support/libbootloader_support.a'
+Target 'component-log-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/log/liblog.a'
+Target 'component-spi_flash-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/spi_flash/libspi_flash.a'
+Target 'component-micro-ecc-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/micro-ecc/libmicro-ecc.a'
+Target 'component-soc-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/soc/libsoc.a'
+Target 'component-main-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/main/libmain.a'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/phy_init.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/pm_trace.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/gpio.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/cache_err_int.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/wifi_init.o
+esptool.py v2.1
+make[1]: Leaving directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/esp_timer_esp32.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/spiram_psram.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/pcnt.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/clk.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/freertos_hooks.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/sdspi_crc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/rmt.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat/library/xmlparse.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/mcpwm.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/gdbstub.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/crosscore_int.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/sdmmc_transaction.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/fast_crypto_ops.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/spi_slave.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat/library/xmltok.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/ets_timer_legacy.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/i2c.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/sdmmc_host.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/ipc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/intr_alloc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/timer.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/pm_locks.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/periph_ctrl.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/event_loop.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/pm_esp32.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/rtc_module.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat/library/xmlrole.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/hw_random.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/ringbuf.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/esp_timer.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat/library/xmltok_ns.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat/library/xmltok_impl.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat/port/minicheck.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat/port/expat_element.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/dport_access.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat/port/chardata.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/xtensa_intr.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat/libexpat.a
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/wifi_internal.o
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat'
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/libdriver.a
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap/heap_caps_init.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/system_api.o
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/queue.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/log'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/log/log.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap/heap_caps.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/log/liblog.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/log'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/brownout.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/croutine.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/api/pppapi.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap/multi_heap.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/event_default_handlers.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/list.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/api/netbuf.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap/heap_trace.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/xtensa_init.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/hwcrypto/sha.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/port.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap/libheap.a
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/api/api_lib.o
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/micro-ecc'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/micro-ecc/micro-ecc/uECC.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/hwcrypto/aes.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/event_groups.o
+AS /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/dport_panic_highint_hdl.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/api/netifapi.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/micro-ecc/libmicro-ecc.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/micro-ecc'
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/libesp32.a
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/api/tcpip.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/tasks.o
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/timers.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/api/netdb.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/FreeRTOS-openocd.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/api/err.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/api/api_msg.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib/time.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/api/sockets.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/xtensa_overlay_os_hook.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib/reent_init.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib/syscalls.o
+AS /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/xtensa_context.o
+AS /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/portasm.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib/syscall_table.o
+AS /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/xtensa_vectors.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib/locks.o
+AS /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/xtensa_vector_defaults.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/apps/dhcpserver.o
+AS /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/xtensa_intr_asm.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/libfreertos.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/apps/sntp/sntp.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib/libnewlib.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/apps/ping/ping.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/apps/ping/esp_ping.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash'
+CXX /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash/src/nvs_types.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread/pthread_local_storage.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc/esp32/rtc_pm.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/mem.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc/esp32/cpu_util.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread/pthread_cond_var.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc/esp32/soc_memory_layout.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/init.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc/esp32/rtc_init.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread/pthread.o
+CXX /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash/src/nvs_page.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc/esp32/rtc_sleep.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/memp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc/esp32/rtc_time.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread/libpthread.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/sys.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc/esp32/rtc_clk.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/tcp_in.o
+CXX /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash/src/nvs_item_hash_list.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc/libsoc.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc'
+CXX /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash/src/nvs_pagemanager.o
+CXX /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash/src/nvs_storage.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/dns.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ip.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/pbuf.o
+CXX /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash/src/nvs_api.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash/flash_mmap.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/tcpip_adapter'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/tcpip_adapter/tcpip_adapter_lwip.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/raw.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash/partition.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash/spi_flash_rom_patch.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/tcp.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/tcpip_adapter/libtcpip_adapter.a
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash/libnvs_flash.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/tcpip_adapter'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/def.o
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/netif.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash/cache_utils.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/vfs'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/vfs/vfs_uart.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/vfs/vfs.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash/flash_ops.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/stats.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/timers.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/vfs/libvfs.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/vfs'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/inet_chksum.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/aes-internal-enc.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash/libspi_flash.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/xtensa-debug-module'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/xtensa-debug-module/eri.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/xtensa-debug-module/trax.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/udp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/tcp_out.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/xtensa-debug-module/libxtensa-debug-module.a
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/sha256-internal.o
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/xtensa-debug-module'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv4/ip_frag.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv4/dhcp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/md5-internal.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/mosapp'
+  GEN   /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/mgos_config.c
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/aes-internal.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/sha1.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv4/ip4_addr.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/aes-unwrap.o
+  GEN   /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/mgos_ro_vars.c
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/crypto_internal-rsa.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/des-internal.o
+CC esp32_nsleep100.o
+CC main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv4/igmp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/dh_groups.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/ms_funcs.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/aes-internal-dec.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv4/ip4.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/aes-wrap.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/sha1-internal.o
+CC deps_init.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv4/autoip.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/md4-internal.o
+CC esp32_adc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv4/icmp.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs/spiffs_cache.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/dh_group5.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs/spiffs_gc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv6/ip6_frag.o
+CC mgos_i2c.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/crypto_internal.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs/spiffs_nucleus.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv6/dhcp6.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/sha256.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv6/inet6.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/rc4.o
+CC esp32_i2c_master.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv6/ip6_addr.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs/spiffs_check.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/md5.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv6/ip6.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/aes-cbc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs/spiffs_hydrogen.o
+CC mgos_atca.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/sha1-pbkdf2.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv6/nd6.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs/libspiffs.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs'
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib/lib/atca_command.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/bignum.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib/lib/atca_iface.o
+CC mgos_ca_bundle.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib/lib/atca_cfgs.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv6/mld6.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib/lib/atca_device.o
+CC mgos_mqtt.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/crypto_internal-modexp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib/lib/basic/atca_helpers.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv6/ethip6.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/crypto/crypto_internal-cipher.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib/lib/basic/atca_basic.o
+CC mgos_shadow.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/core/ipv6/icmp6.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/port/os_xtensa.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/polarssl/des.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-wrap.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib/lib/host/atca_host.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/polarssl/sha1.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256-internal.o
+CC mgos_aws.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib/libcryptoauthlib.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/polarssl/md4.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/polarssl/md5.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-cbc.o
+CC mgos_aws_greengrass.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/polarssl/arc4.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal.o
+CC mgos_aws_shadow.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/eap.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/pppol2tp.o
+CC mgos_bt.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/multilink.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-unwrap.o
+CC esp32_bt.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/magic.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-modexp.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cs_mbedtls'
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cs_mbedtls/libcs_mbedtls.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cs_mbedtls'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-cipher.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/chap_ms.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/pppoe.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/libwpa_supplicant.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant'
+CC esp32_bt_gap.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/ecp.o
+CC esp32_bt_gattc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/chap-md5.o
+make[1]: Entering directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/vj.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bt.o
+  MKDIR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/fw_temp
+Target 'component-app_trace-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_trace/libapp_trace.a'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/dm/bta_dm_api.o
+Target 'component-app_update-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/app_update/libapp_update.a'
+Target 'component-bootloader_support-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader_support/libbootloader_support.a'
+CC esp32_bt_gatts.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/ipv6cp.o
+CC esp32_bt_svc_config.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/ccp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/dm/bta_dm_sco.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/chap-new.o
+Target 'component-cxx-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cxx/libcxx.a'
+CC esp32_bt_svc_debug.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/dm/bta_dm_ci.o
+Target 'component-driver-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/driver/libdriver.a'
+Target 'component-esp_adc_cal-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp_adc_cal/libesp_adc_cal.a'
+Target 'component-esp32-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/esp32/libesp32.a'
+Target 'component-ethernet-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ethernet/libethernet.a'
+Target 'component-expat-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/expat/libexpat.a'
+Target 'component-freertos-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/freertos/libfreertos.a'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/dm/bta_dm_act.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/auth.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/dm/bta_dm_pm.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/pppcrypt.o
+CC mgos_eth.o
+CC esp32_eth.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/ppp.o
+Target 'component-heap-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/heap/libheap.a'
+CC mgos_wifi.o
+Target 'component-log-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/log/liblog.a'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/mppe.o
+Target 'component-micro-ecc-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/micro-ecc/libmicro-ecc.a'
+Target 'component-newlib-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/newlib/libnewlib.a'
+Target 'component-nvs_flash-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/nvs_flash/libnvs_flash.a'
+CC mjs_wifi.o
+CC esp32_wifi.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/pppos.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/dm/bta_dm_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/dm/bta_dm_cfg.o
+Target 'component-pthread-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/pthread/libpthread.a'
+Target 'component-soc-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/soc/libsoc.a'
+Target 'component-spi_flash-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spi_flash/libspi_flash.a'
+Target 'component-tcpip_adapter-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/tcpip_adapter/libtcpip_adapter.a'
+Target 'component-vfs-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/vfs/libvfs.a'
+CC mgos_http_server.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/fsm.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gatts_main.o
+CC mg_rpc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/ipcp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gatt_common.o
+CC mg_rpc_channel.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gatts_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/lcp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_cache.o
+CC mg_rpc_channel_http.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/eui64.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/demand.o
+Target 'component-wpa_supplicant-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/wpa_supplicant/libwpa_supplicant.a'
+Target 'component-xtensa-debug-module-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/xtensa-debug-module/libxtensa-debug-module.a'
+Target 'component-spiffs-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/spiffs/libspiffs.a'
+Target 'component-cryptoauthlib-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cryptoauthlib/libcryptoauthlib.a'
+CC mg_rpc_channel_ws.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/upap.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ppp/utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/slipif.o
+Target 'component-cs_mbedtls-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/cs_mbedtls/libcs_mbedtls.a'
+CC mgos_rpc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/etharp.o
+CC mgos_dht.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_act.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ethernet.o
+CC mgos_dns_sd.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/lowpan6.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_ci.o
+CC esp32_touchpad.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/netif/ethernetif.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gatts_act.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/gatt/bta_gatts_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/port/freertos/sys_arch.o
+CC mgos_gcp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/hh/bta_hh_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/port/netif/wlanif.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/port/netif/ethernetif.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/hh/bta_hh_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/hh/bta_hh_le.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/port/debug/lwip_debug.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/port/vfs_lwip.o
+CC mgos_pppos.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/hh/bta_hh_act.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/hh/bta_hh_main.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/liblwip.a
+CC mgos_pwm.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/hh/bta_hh_cfg.o
+CC esp32_pwm.o
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip'
+CC esp32_rpc_channel_gatts.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/sdp/bta_sdp.o
+Target 'component-lwip-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/lwip/liblwip.a'
+CC mg_rpc_channel_loopback.o
+CC mgos_rpc_channel_mqtt.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/sdp/bta_sdp_act.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/sdp/bta_sdp_cfg.o
+CC mgos_atca_service.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/sdp/bta_sdp_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/av/bta_av_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/av/bta_av_ssm.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/av/bta_av_cfg.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/av/bta_av_ci.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/av/bta_av_act.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/av/bta_av_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/av/bta_av_sbc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/av/bta_av_aact.o
+CC mgos_service_config.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/ar/bta_ar.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/sys/bta_sys_main.o
+CC mgos_service_filesystem.o
+CC mgos_gpio_service.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/sys/utl.o
+CC mgos_i2c_service.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/bta/sys/bta_sys_conn.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btcore/bdaddr.o
+CC mgos_rpc_service_wifi.o
+CC mgos_rpc_channel_uart.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btif/bta_gattc_co.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btif/bta_dm_co.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btif/bta_gatts_co.o
+CC mgos_sntp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/device/interop.o
+CC mgos_spi.o
+CC mgos_spi_mjs.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/device/controller.o
+CC esp32_spi_master.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/hci/buffer_allocator.o
+CC mgos_vfs_dev_spi_flash.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/hci/hci_hal_h4.o
+CC mgos_demo_bundle.o
+  GEN   /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/ffi_exports.c
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/hci/hci_packet_parser.o
+CC mgos_debug.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/hci/packet_fragmenter.o
+CC mgos_net.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/hci/hci_layer.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/hci/hci_packet_factory.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/main/bte_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/main/bte_init.o
+CC mgos_bitbang.o
+CC mgos_mdns.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/future.o
+CC mgos_updater_common.o
+CC mgos_config_util.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/semaphore.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/hash_map.o
+CC mgos_core_dump.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/fixed_queue.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/config.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/list.o
+CC mgos_dlsym.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/mutex.o
+CC mgos_event.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/osi.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/hash_functions.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/alarm.o
+CC mgos_hal_freertos.o
+CC mgos_gpio.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/buffer.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/osi/allocator.o
+CC mgos_init.o
+CC mgos_mmap_esp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitstream-decode.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitalloc.o
+CC mgos_mongoose.o
+CC mgos_sys_config.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-sbc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-oina.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/mgos_config.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-dct8.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/framing.o
+CC mgos_ro_vars.o
+CC mgos_hw_timers.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/dequant.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/alloc.o
+CC mgos_system.o
+CC mgos_time.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-sbc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitalloc-sbc.o
+CC mgos_timers.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-private.o
+CC mgos_uart.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-8-generated.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/framing-sbc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/oi_codec_version.o
+CC mgos_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_task.o
+CC mgos_vfs.o
+CC mgos_vfs_dev.o
+CC mgos_vfs_dev_ram.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_main.o
+CC mgos_vfs_fs_spiffs.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_util.o
+CC esp32_crypto.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_storage.o
+CC esp32_debug.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_ble_storage.o
+CC esp32_exc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_sm.o
+CC esp32_fs.o
+CC esp32_fs_crypt.o
+CC esp32_vfs_dev_partition.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_profile_queue.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_alarm.o
+CC esp32_gpio.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_manage.o
+CC esp32_hal.o
+CC esp32_hw_timers.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_sec.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_config.o
+CC esp32_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_dev.o
+CC esp32_mdns.o
+CC esp32_uart.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/core/btc_dm.o
+CC esp32_updater.o
+CC cs_crc32.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/esp/blufi/blufi_prf.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/esp/blufi/blufi_protocol.o
+CC cs_dbg.o
+CC cs_file.o
+CC cs_rbuf.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/std/gap/btc_gap_bt.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/std/gap/btc_gap_ble.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gattc.o
+CC json_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatt_util.o
+CC frozen.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatts.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/std/a2dp/bta_av_co.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_media_task.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_avk.o
+CC mongoose.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/btc/profile/std/avrc/btc_avrc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/ffi_exports.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_ble_batchscan.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_ble_cont_energy.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_sec.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_ble.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_pm.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_ble_adv_filter.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_inq.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_sco.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_ble_privacy.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_acl.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_ble_bgconn.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_dev.o
+  GEN   /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/build_info.c
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_ble_gap.o
+  GEN   /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/mg_build_info.c
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_ble_multi_adv.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_ble_addr.o
+CC build_info.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btm/btm_devctl.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btu/btu_hcif.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btu/btu_task.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/btu/btu_init.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gap/gap_ble.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gap/gap_conn.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gap/gap_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gap/gap_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gatt/gatt_db.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gatt/gatt_cl.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gatt/gatt_attr.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gatt/gatt_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gatt/gatt_sr.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gatt/att_protocol.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gatt/gatt_auth.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gatt/gatt_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/gatt/gatt_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/hcic/hciblecmds.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/hcic/hcicmds.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/l2cap/l2c_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/l2cap/l2c_csm.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/l2cap/l2c_ucd.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/l2cap/l2c_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/l2cap/l2cap_client.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/l2cap/l2c_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/l2cap/l2c_fcr.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/l2cap/l2c_link.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/l2cap/l2c_ble.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/sdp/sdp_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/sdp/sdp_db.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/sdp/sdp_discovery.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/sdp/sdp_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/sdp/sdp_server.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/sdp/sdp_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/smp_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/smp_keys.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/smp_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/smp_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/p_256_ecc_pp.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/smp_act.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/smp_br_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/aes.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/smp_cmac.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/p_256_multprecision.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/p_256_curvepara.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/smp/smp_l2c.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avct/avct_lcb.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avct/avct_lcb_act.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avct/avct_l2c.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avct/avct_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avct/avct_ccb.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avrc/avrc_pars_ct.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avrc/avrc_opt.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avrc/avrc_bld_ct.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avrc/avrc_pars_tg.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avrc/avrc_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avrc/avrc_bld_tg.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avrc/avrc_utils.o
+CC mg_build_info.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avrc/avrc_sdp.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/mosapp/libmosapp.a
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avdt/avdt_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avdt/avdt_l2c.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avdt/avdt_scb.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avdt/avdt_scb_act.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avdt/avdt_ccb.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avdt/avdt_msg.o
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/mosapp'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avdt/avdt_ccb_act.o
+Target 'component-mosapp-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/mosapp/libmosapp.a'
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/avdt/avdt_ad.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/a2dp/a2d_sbc.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/stack/a2dp/a2d_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/utils/bt_utils.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/api/esp_avrc_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/api/esp_bt_main.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/api/esp_bt_device.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/api/esp_gap_bt_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/api/esp_a2dp_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/api/esp_gattc_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/api/esp_blufi_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/api/esp_gap_ble_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/api/esp_gatts_api.o
+CC /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/bluedroid/api/esp_gatt_common_api.o
+AR /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/libbt.a
+make[1]: Leaving directory '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt'
+Target 'component-bt-build' responsible for '/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bt/libbt.a'
+esptool.py v2.1
+  Generating breakdown
+  CP    /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/fs/ca.pem -> build/fs
+  CP    /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/fs/index.html -> build/fs
+  CP    /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/conf0.json -> build/fs
+  MKFS  /usr/local/bin/mkspiffs8 262144 4096 256 4096 build/fs -> /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/fw_temp/fs.img
+     Adding index.html: 70
+     Adding ca.pem: 17334
+     Adding conf0.json: 5106
+     Image stats: size=262144, space: total=233681, used=23845, free=209836
+  GEN    /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/fw_temp/manifest.json
+  ZIP    /app/doorbell-c/build/fw/doorbell-c-esp32-last.zip
+     Adding /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/fw_temp/bootloader.bin
+     Adding /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/fw_temp/doorbell-c.bin
+     Adding /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/fw_temp/fs.img
+     Adding /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/fw_temp/partitions_mgos.bin
+  Built doorbell-c/esp32 version 1.0 (20180206-162659/master@d2951c48+)
+To flash all build output, run 'make flash' or:
+python /opt/Espressif/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 1500000 --before default_reset --after hard_reset write_flash -z --flash_mode qio --flash_freq 40m --flash_size detect 0x1000 /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/bootloader/bootloader.bin 0x10000 /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/doorbell-c.bin 0x8000 /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/objs/partitions_mgos.bin
+make: Leaving directory '/app/doorbell-c'
+Success, built doorbell-c/esp32 version 1.0 (20180206-162659/master@d2951c48+).
+Firmware saved to build/fw.zip

@@ -1,0 +1,1186 @@
+type: app
+version: "1.0"
+platform: esp32
+platforms:
+- esp32
+author: mongoose-os
+description: A demo Mongoose OS firmware for C/C++
+sources:
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/src/main.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/deps_init.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/esp32/src/esp32_adc.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/src/mgos_i2c.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/esp32/src/esp32_i2c_master.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/src/mgos_atca.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/src/mgos_ca_bundle.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/src/mgos_mqtt.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/src/mgos_shadow.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws_greengrass.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws_shadow.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/mgos_bt.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gap.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gattc.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gatts.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-config/src/esp32/esp32_bt_svc_config.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-debug/src/esp32/esp32_bt_svc_debug.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/mgos_eth.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/esp32/esp32_eth.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src/mgos_wifi.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src/mjs_wifi.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/src/esp32_wifi.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/src/mgos_http_server.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel_http.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel_ws.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mgos_rpc.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/src/mgos_dht.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/src/mgos_dns_sd.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/esp32-touchpad/src/esp32_touchpad.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/src/mgos_gcp.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/src/mgos_pppos.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/mgos_pwm.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/esp32/esp32_pwm.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-gatts/src/esp32/esp32_rpc_channel_gatts.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/src/mg_rpc_channel_loopback.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/src/mgos_rpc_channel_mqtt.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-atca/src/mgos_atca_service.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/src/mgos_service_config.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/src/mgos_service_filesystem.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/src/mgos_gpio_service.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/src/mgos_i2c_service.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-wifi/src/mgos_rpc_service_wifi.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/src/mgos_rpc_channel_uart.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/src/mgos_sntp.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/mgos_spi.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/mgos_spi_mjs.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/esp32/esp32_spi_master.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/src/mgos_vfs_dev_spi_flash.c
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/demo-bundle/src/mgos_demo_bundle.c
+includes:
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/include/esp32
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include/mg_rpc
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/include
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/include
+filesystem:
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/fs/ca.pem
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/fs/index.html
+binary_libs:
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-shadow/lib/esp32/libota-shadow.a
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash/lib/esp32/libdash.a
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client/lib/esp32/libota-http-client.a
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server/lib/esp32/libota-http-server.a
+- /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota/lib/esp32/librpc-service-ota.a
+config_schema:
+- - sys.esp32_adc_vref
+  - i
+  - 0
+  - title: ADC Vref, in mV
+- - i2c
+  - o
+  - title: I2C settings
+- - i2c.enable
+  - b
+  - false
+  - title: Enable I2C
+- - i2c.freq
+  - i
+  - 100000
+  - title: Clock frequency
+- - i2c.debug
+  - b
+  - false
+  - title: Debug I2C bus activity
+- - i2c.unit_no
+  - i
+  - 0
+  - title: Which hardware unit ot use, 0 or 1
+- - i2c.sda_gpio
+  - i
+  - 32
+  - title: GPIO to use for SDA
+- - i2c.scl_gpio
+  - i
+  - 33
+  - title: GPIO to use for SCL
+- - sys.atca
+  - o
+  - title: CryptoAuthLib configuration
+- - sys.atca.enable
+  - b
+  - false
+  - title: Enable the chip
+- - sys.atca.i2c_addr
+  - i
+  - 96
+  - title: I2C address of the chip
+- - sys.atca.ecdh_slots_mask
+  - i
+  - 12
+  - title: Which slots can be used for ECDH (bitmask)
+- - mqtt
+  - o
+  - title: MQTT settings
+- - mqtt.enable
+  - b
+  - false
+  - title: Enable MQTT
+- - mqtt.server
+  - s
+  - iot.eclipse.org:1883
+  - title: MQTT server
+- - mqtt.client_id
+  - s
+  - ""
+  - title: ClientID t send to the broker. Defaults to device.id.
+- - mqtt.user
+  - s
+  - ""
+  - title: User name
+- - mqtt.pass
+  - s
+  - ""
+  - title: Password
+- - mqtt.reconnect_timeout_min
+  - d
+  - 2
+  - title: Starting reconnect timeout
+- - mqtt.reconnect_timeout_max
+  - d
+  - 60
+  - title: Maximum reconnect timeout
+- - mqtt.ssl_cert
+  - s
+  - ""
+  - title: Client certificate to present to the server
+- - mqtt.ssl_key
+  - s
+  - ""
+  - title: Private key corresponding to the certificate
+- - mqtt.ssl_ca_cert
+  - s
+  - ""
+  - title: Verify server certificate using this CA bundle
+- - mqtt.ssl_cipher_suites
+  - s
+  - ""
+  - title: Cipher suites to offer to the server
+- - mqtt.ssl_psk_identity
+  - s
+  - ""
+  - title: PSK identity (must specify PSK cipher suites)
+- - mqtt.ssl_psk_key
+  - s
+  - ""
+  - title: PSK key
+- - mqtt.clean_session
+  - b
+  - true
+  - title: Clean Session
+- - mqtt.keep_alive
+  - i
+  - 60
+  - title: Keep alive interval
+- - mqtt.will_topic
+  - s
+  - ""
+  - title: Will topic
+- - mqtt.will_message
+  - s
+  - ""
+  - title: Will message
+- - mqtt.max_qos
+  - i
+  - 2
+  - title: Limit QoS of outgoing messages to at most this
+- - mqtt.recv_mbuf_limit
+  - i
+  - 3072
+  - title: Limit recv buffer size
+- - debug.stdout_topic
+  - s
+  - ""
+  - title: MQTT topic to publish STDOUT to
+- - debug.stderr_topic
+  - s
+  - ""
+  - title: MQTT topic to publish STDERR to
+- - shadow
+  - o
+  - title: Device shadow settings
+- - shadow.lib
+  - s
+  - ""
+  - title: Preferred shadow lib, e.g. aws, dash, gcp
+- - aws
+  - o
+  - title: AWS settings
+- - aws.thing_name
+  - s
+  - ""
+  - title: Set thing name. If not specified, device.id is used
+- - aws.greengrass
+  - o
+  - title: AWS Greengrass settings
+- - aws.greengrass.enable
+  - b
+  - false
+  - title: Enable AWS Greengrass service
+- - aws.greengrass.reconnect_timeout_min
+  - i
+  - 2
+  - title: Starting reconnect timeout
+- - aws.greengrass.reconnect_timeout_max
+  - i
+  - 60
+  - title: Maximum reconnect timeout
+- - mqtt.recv_mbuf_limit
+  - 8192
+- - bt
+  - o
+  - title: Bluetooth settings
+- - bt.enable
+  - b
+  - true
+  - title: Enable BT
+- - bt.dev_name
+  - s
+  - ""
+  - title: Device name; defaults to device.id
+- - bt.adv_enable
+  - b
+  - true
+  - title: Advertise services
+- - bt.scan_rsp_data_hex
+  - s
+  - ""
+  - title: Scan response data, hex-encoded
+- - bt.keep_enabled
+  - b
+  - false
+  - title: By default, BT will be disabled once WiFi is configured and connects. Set
+      this to true to keep BT enabled.
+- - bt.allow_pairing
+  - b
+  - true
+  - title: Allow pairing/bonding with other devices
+- - bt.max_paired_devices
+  - i
+  - -1
+  - title: Max number of paired devices; -1 - no limit
+- - bt.random_address
+  - b
+  - true
+  - title: Use random BT address
+- - bt.gatts
+  - o
+  - title: GATTS settings
+- - bt.gatts.min_sec_level
+  - i
+  - 0
+  - title: 0 - no auth required, 1 - encryption reqd, 2 - encryption + MITM reqd
+- - bt.gatts.require_pairing
+  - b
+  - false
+  - title: Require device to be paired before accessing services
+- - bt.config_svc_enable
+  - b
+  - true
+  - title: Enable the config service
+- - bt.debug_svc_enable
+  - b
+  - true
+  - title: Enable the debug service
+- - eth
+  - o
+  - title: Ethernet settings
+- - eth.enable
+  - b
+  - false
+  - title: Enable Ethernet interface
+- - eth.phy_addr
+  - i
+  - 0
+  - title: (R)MII PHY address
+- - eth.ip
+  - s
+  - title: Static IP Address
+- - eth.netmask
+  - s
+  - title: Static Netmask
+- - eth.gw
+  - s
+  - title: Static Default Gateway
+- - eth.mdc_gpio
+  - i
+  - 23
+  - title: GPIO to use for RMII MDC signal
+- - eth.mdio_gpio
+  - i
+  - 18
+  - title: GPIO to use for RMII MDIO signal
+- - wifi
+  - o
+  - hide: true
+- - wifi.sta
+  - o
+  - title: WiFi Station
+- - wifi.sta.enable
+  - b
+  - title: Connect to existing WiFi
+- - wifi.sta.ssid
+  - s
+  - title: SSID
+- - wifi.sta.pass
+  - s
+  - title: Password
+    type: password
+- - wifi.sta.user
+  - s
+  - title: Username for WPA-PEAP mode
+- - wifi.sta.anon_identity
+  - s
+  - title: Anonymous identity for WPA mode
+- - wifi.sta.cert
+  - s
+  - title: Client certificate for WPA-TTLS mode
+- - wifi.sta.key
+  - s
+  - title: Client key for WPA-TTLS mode
+- - wifi.sta.ca_cert
+  - s
+  - title: CA certificate for WPA-enterprise mode
+- - wifi.sta.ip
+  - s
+  - title: Static IP Address
+- - wifi.sta.netmask
+  - s
+  - title: Static Netmask
+- - wifi.sta.gw
+  - s
+  - title: Static Default Gateway
+- - wifi.sta.nameserver
+  - s
+  - title: DNS Server
+- - wifi.sta.dhcp_hostname
+  - s
+  - title: Host name to include in DHCP requests
+- - wifi.ap
+  - o
+  - title: WiFi Access Point
+- - wifi.ap.enable
+  - b
+  - true
+  - title: Enable
+- - wifi.ap.ssid
+  - s
+  - Mongoose_??????
+  - title: SSID
+- - wifi.ap.pass
+  - s
+  - Mongoose
+  - title: Password
+    type: password
+- - wifi.ap.hidden
+  - b
+  - false
+  - title: Hide SSID
+- - wifi.ap.channel
+  - i
+  - 6
+  - title: Channel
+- - wifi.ap.max_connections
+  - i
+  - 10
+  - title: Max connections
+- - wifi.ap.ip
+  - s
+  - 192.168.4.1
+  - title: IP address
+- - wifi.ap.netmask
+  - s
+  - 255.255.255.0
+  - title: Network Mask
+- - wifi.ap.gw
+  - s
+  - 192.168.4.1
+  - title: Default Gateway
+- - wifi.ap.dhcp_start
+  - s
+  - 192.168.4.2
+  - title: DHCP Start Address
+- - wifi.ap.dhcp_end
+  - s
+  - 192.168.4.100
+  - title: DHCP End Address
+- - wifi.ap.trigger_on_gpio
+  - i
+  - -1
+  - title: Trigger AP on low GPIO
+- - wifi.ap.disable_after
+  - i
+  - 0
+  - title: If > 0, will disable itself after the specified number of seconds
+- - wifi.ap.hostname
+  - s
+  - ""
+  - title: If not empty, DNS server will resolve given host name to the IP address
+      of AP
+- - wifi.ap.keep_enabled
+  - b
+  - true
+  - title: Keep AP enabled when station is on
+- - http
+  - o
+  - title: HTTP Server
+- - http.enable
+  - b
+  - true
+  - title: Enable HTTP Server
+- - http.listen_addr
+  - s
+  - "80"
+  - title: Listening port / address
+- - http.document_root
+  - s
+  - /
+  - title: Root for serving files. Setting to empty disables file serving.
+- - http.ssl_cert
+  - s
+  - title: Turn on SSL on the listener, use this cert
+- - http.ssl_key
+  - s
+  - title: SSL key to use
+- - http.ssl_ca_cert
+  - s
+  - title: Verify clients this CA bundle
+- - http.upload_acl
+  - s
+  - '*'
+  - title: Upload file ACL
+- - http.hidden_files
+  - s
+  - title: Hidden file pattern
+- - http.auth_domain
+  - s
+  - title: Enable authentication of all HTTP requests
+- - http.auth_file
+  - s
+  - title: Password file to use for auth
+- - rpc
+  - o
+  - title: RPC settings
+- - rpc.enable
+  - b
+  - true
+  - title: Enable RPC
+- - rpc.max_frame_size
+  - i
+  - 4096
+  - title: Max Frame Size
+- - rpc.max_queue_length
+  - i
+  - 25
+  - title: Max Queue Length
+- - rpc.default_out_channel_idle_close_timeout
+  - i
+  - 10
+  - title: Default idle close timeout for outbound channels
+- - rpc.acl_file
+  - s
+  - title: File with RPC ACL JSON
+- - rpc.auth_domain
+  - s
+  - title: Realm to use for digest authentication
+- - rpc.auth_file
+  - s
+  - title: File with user credentials in the htdigest format
+- - rpc.ws
+  - o
+  - title: RPC over WebSocket settings
+- - rpc.ws.enable
+  - b
+  - true
+  - title: Enable RPC over WebSocket
+- - rpc.ws.server_address
+  - s
+  - ""
+  - title: Cloud server address
+- - rpc.ws.reconnect_interval_min
+  - i
+  - 1
+  - title: Minimal reconnect interval
+- - rpc.ws.reconnect_interval_max
+  - i
+  - 60
+  - title: Maximal reconnect interval
+- - rpc.ws.ssl_server_name
+  - s
+  - title: TLS Server Name
+- - rpc.ws.ssl_ca_file
+  - s
+  - title: TLS CA file
+- - rpc.ws.ssl_client_cert_file
+  - s
+  - title: TLS client cert file
+- - dash
+  - o
+  - title: Device management dashboard settings
+- - dash.enable
+  - b
+  - false
+  - title: Enable
+- - dash.token
+  - s
+  - ""
+  - title: Access token
+- - dash.server
+  - s
+  - wss://dash.mongoose-os.com/api/v1/rpc
+  - title: Server address
+- - dash.ca_file
+  - s
+  - ca.pem
+  - title: CA file
+- - dash.send_logs
+  - b
+  - true
+  - title: Send logs
+- - dash.stats_interval
+  - i
+  - 10
+  - title: Stats interval in seconds. Set to 0 to disable
+- - dash.ota_chunk_size
+  - i
+  - 1024
+  - title: OTA download chunk size in bytes
+- - dns_sd
+  - o
+  - title: DNS-SD service discovery
+- - dns_sd.enable
+  - b
+  - false
+  - title: Enable service discovery
+- - dns_sd.host_name
+  - s
+  - mOS_??????
+  - title: DNS-SD host name. '?' chars will be expanded with MAC address hex digits
+- - dns_sd.txt
+  - s
+  - ""
+  - title: Extra comma-separated key=value pairs to put into the TXT service record
+- - dns_sd.ttl
+  - i
+  - 120
+  - title: Time-to-live in seconds
+- - dns_sd.host_name
+  - mOS_esp32_??????
+- - gcp
+  - o
+  - title: GCP IOT settings
+- - gcp.enable
+  - b
+  - false
+  - title: Enable GCP IOT
+- - gcp.project
+  - s
+  - ""
+  - title: Project ID
+- - gcp.region
+  - s
+  - ""
+  - title: Region name
+- - gcp.registry
+  - s
+  - ""
+  - title: Device registry name
+- - gcp.device
+  - s
+  - ""
+  - title: Device name
+- - gcp.key
+  - s
+  - ""
+  - title: Private key to use for token signing
+- - gcp.token_ttl
+  - i
+  - 3600
+  - title: Life time of the token
+- - update.url
+  - s
+  - title: Fetch updates form here
+- - update.interval
+  - i
+  - title: Check for updates this often
+- - update.ssl_ca_file
+  - s
+  - ca.pem
+  - title: TLS CA file
+- - update.ssl_client_cert_file
+  - s
+  - title: TLS client cert file
+- - update.ssl_server_name
+  - s
+  - title: TLS Server Name
+- - update.enable_post
+  - b
+  - true
+  - title: Enable POST updates
+- - pppos
+  - o
+  - title: PPPoS settings
+- - pppos.enable
+  - b
+  - false
+  - title: Enable PPPoS
+- - pppos.uart_no
+  - i
+  - 1
+  - title: Which UART to use
+- - pppos.baud_rate
+  - i
+  - 115200
+  - title: Baud rate
+- - pppos.fc_enable
+  - b
+  - false
+  - title: Enable hardware CTS/RTS flow control
+- - pppos.apn
+  - s
+  - ""
+  - title: APN name
+- - pppos.user
+  - s
+  - ""
+  - title: User name
+- - pppos.pass
+  - s
+  - ""
+  - title: Password
+- - pppos.connect_cmd
+  - s
+  - ATDT*99***1#
+  - title: AT command to send to initiate PPP data mode
+- - pppos.echo_interval
+  - i
+  - 10
+  - title: LCP Echo interval, seconds
+- - pppos.echo_fails
+  - i
+  - 3
+  - title: Number of failed echos before connection is declared dead and retried
+- - pppos.hexdump_enable
+  - b
+  - false
+  - title: Dump all the data sent over UART to stderr
+- - rpc.gatts
+  - o
+  - title: Bluetooth settings
+- - rpc.gatts.enable
+  - b
+  - true
+  - title: Enable RPC GATTS service
+- - rpc.mqtt
+  - o
+  - title: RPC over MQTT settings
+- - rpc.mqtt.enable
+  - b
+  - true
+  - title: Enable RPC over MQTT
+- - rpc.mqtt.topic
+  - s
+  - ""
+  - title: Topic to use for RPC requests and responses. The default is ${device.id}/rpc
+- - rpc.uart
+  - o
+  - title: RPC-over-UART settings
+- - rpc.uart.uart_no
+  - i
+  - title: UART number (-1 to disable)
+- - rpc.uart.baud_rate
+  - i
+  - 115200
+  - title: Baud rate
+- - rpc.uart.fc_type
+  - i
+  - 2
+  - title: 'Flow control: 0 - none, 1 - CTS/RTS, 2 - XON/XOFF'
+- - rpc.uart.wait_for_start_frame
+  - b
+  - true
+  - title: Wait for an incoming frame before using the channel
+- - sntp
+  - o
+  - title: SNTP settings
+- - sntp.enable
+  - b
+  - true
+  - title: Enable SNTP
+- - sntp.server
+  - s
+  - time.google.com
+  - title: Server address
+- - sntp.retry_min
+  - i
+  - 1
+  - title: Minimum retry interval
+- - sntp.retry_max
+  - i
+  - 30
+  - title: Maximum retry interval
+- - sntp.update_interval
+  - i
+  - 7200
+  - title: Update interval. If 0, performs a one-off sync
+- - spi
+  - o
+  - title: SPI settings
+- - spi.enable
+  - b
+  - false
+  - title: Enable SPI
+- - spi.debug
+  - b
+  - false
+  - title: Debug SPI bus activity
+- - spi.unit_no
+  - i
+  - 3
+  - title: Which SPI unit to use, 2 or 3
+- - spi.miso_gpio
+  - i
+  - 19
+  - title: GPIO to use for MISO
+- - spi.mosi_gpio
+  - i
+  - 23
+  - title: GPIO to use for MOSI
+- - spi.sclk_gpio
+  - i
+  - 18
+  - title: GPIO to use for SCLK
+- - spi.cs0_gpio
+  - i
+  - 5
+  - title: GPIO to use for CS0
+- - spi.cs1_gpio
+  - i
+  - -1
+  - title: GPIO to use for CS1
+- - spi.cs2_gpio
+  - i
+  - -1
+  - title: GPIO to use for CS2
+- - pins
+  - o
+  - title: Pins layout
+- - pins.led
+  - i
+  - -1
+  - title: LED GPIO pin
+- - pins.button
+  - i
+  - -1
+  - title: Button GPIO pin
+- - pins.led
+  - 21
+- - pins.button
+  - 0
+- - mqtt.server
+  - iot.eclipse.org:1883
+build_vars:
+  ESP_IDF_EXTRA_COMPONENTS: ' bt'
+  ESP_IDF_SDKCONFIG_OPTS: |2-
+     CONFIG_BT_ENABLED=y CONFIG_BLUEDROID_ENABLED=y CONFIG_BTC_TASK_STACK_SIZE=6144 CONFIG_BLUEDROID_MEM_DEBUG= CONFIG_CLASSIC_BT_ENABLED= CONFIG_BT_DRAM_RELEASE=y CONFIG_GATTS_ENABLE=y CONFIG_GATTC_ENABLE=y CONFIG_BLE_SMP_ENABLE=y CONFIG_BT_STACK_NO_LOG= CONFIG_BT_ACL_CONNECTIONS=4 CONFIG_BTDM_CONTROLLER_RUN_CPU=0 CONFIG_SMP_ENABLE=y CONFIG_BT_RESERVE_DRAM=0x10000
+     CONFIG_PPP_SUPPORT=y
+  MGOS_ENABLE_I2C_GPIO: "0"
+  MGOS_ENABLE_MDNS: "1"
+  MGOS_ENABLE_SPI_GPIO: "0"
+  MGOS_ENABLE_UPDATER: "1"
+  MGOS_HAVE_ADC: "1"
+  MGOS_HAVE_ATCA: "1"
+  MGOS_HAVE_AWS: "1"
+  MGOS_HAVE_BT_COMMON: "1"
+  MGOS_HAVE_BT_SERVICE_CONFIG: "1"
+  MGOS_HAVE_BT_SERVICE_DEBUG: "1"
+  MGOS_HAVE_CA_BUNDLE: "1"
+  MGOS_HAVE_DASH: "1"
+  MGOS_HAVE_DEMO_BUNDLE: "1"
+  MGOS_HAVE_DHT: "1"
+  MGOS_HAVE_DNS_SD: "1"
+  MGOS_HAVE_ESP32_TOUCHPAD: "1"
+  MGOS_HAVE_ETHERNET: "1"
+  MGOS_HAVE_GCP: "1"
+  MGOS_HAVE_HTTP_SERVER: "1"
+  MGOS_HAVE_I2C: "1"
+  MGOS_HAVE_MQTT: "1"
+  MGOS_HAVE_OTA_HTTP_CLIENT: "1"
+  MGOS_HAVE_OTA_HTTP_SERVER: "1"
+  MGOS_HAVE_OTA_SHADOW: "1"
+  MGOS_HAVE_PPPOS: "1"
+  MGOS_HAVE_PWM: "1"
+  MGOS_HAVE_RPC_COMMON: "1"
+  MGOS_HAVE_RPC_GATTS: "1"
+  MGOS_HAVE_RPC_LOOPBACK: "1"
+  MGOS_HAVE_RPC_MQTT: "1"
+  MGOS_HAVE_RPC_SERVICE_ATCA: "1"
+  MGOS_HAVE_RPC_SERVICE_CONFIG: "1"
+  MGOS_HAVE_RPC_SERVICE_FS: "1"
+  MGOS_HAVE_RPC_SERVICE_GPIO: "1"
+  MGOS_HAVE_RPC_SERVICE_I2C: "1"
+  MGOS_HAVE_RPC_SERVICE_OTA: "1"
+  MGOS_HAVE_RPC_SERVICE_WIFI: "1"
+  MGOS_HAVE_RPC_UART: "1"
+  MGOS_HAVE_SHADOW: "1"
+  MGOS_HAVE_SNTP: "1"
+  MGOS_HAVE_SPI: "1"
+  MGOS_HAVE_VFS_DEV_SPI_FLASH: "1"
+  MGOS_HAVE_WIFI: "1"
+  MGOS_WIFI_ENABLE_AP_STA: "1"
+cdefs:
+  MG_ENABLE_DNS_SERVER: "1"
+  MG_ENABLE_MQTT: "1"
+  MG_ENABLE_SNTP: "1"
+  MGOS_ENABLE_FILE_UPLOAD: "1"
+  MGOS_ENABLE_RPC_CHANNEL_HTTP: "1"
+  MGOS_ENABLE_RPC_CHANNEL_WS: "1"
+  MGOS_ENABLE_SYS_SERVICE: "1"
+  MGOS_ENABLE_TUNNEL: "0"
+  MGOS_ENABLE_WEB_CONFIG: "0"
+  MGOS_ETH_PHY_LAN87x0: "1"
+  MGOS_HAVE_ADC: "1"
+  MGOS_HAVE_ATCA: "1"
+  MGOS_HAVE_AWS: "1"
+  MGOS_HAVE_BT_COMMON: "1"
+  MGOS_HAVE_BT_SERVICE_CONFIG: "1"
+  MGOS_HAVE_BT_SERVICE_DEBUG: "1"
+  MGOS_HAVE_CA_BUNDLE: "1"
+  MGOS_HAVE_DASH: "1"
+  MGOS_HAVE_DEMO_BUNDLE: "1"
+  MGOS_HAVE_DHT: "1"
+  MGOS_HAVE_DNS_SD: "1"
+  MGOS_HAVE_ESP32_TOUCHPAD: "1"
+  MGOS_HAVE_ETHERNET: "1"
+  MGOS_HAVE_GCP: "1"
+  MGOS_HAVE_HTTP_SERVER: "1"
+  MGOS_HAVE_I2C: "1"
+  MGOS_HAVE_MQTT: "1"
+  MGOS_HAVE_OTA_HTTP_CLIENT: "1"
+  MGOS_HAVE_OTA_HTTP_SERVER: "1"
+  MGOS_HAVE_OTA_SHADOW: "1"
+  MGOS_HAVE_PPPOS: "1"
+  MGOS_HAVE_PWM: "1"
+  MGOS_HAVE_RPC_COMMON: "1"
+  MGOS_HAVE_RPC_GATTS: "1"
+  MGOS_HAVE_RPC_LOOPBACK: "1"
+  MGOS_HAVE_RPC_MQTT: "1"
+  MGOS_HAVE_RPC_SERVICE_ATCA: "1"
+  MGOS_HAVE_RPC_SERVICE_CONFIG: "1"
+  MGOS_HAVE_RPC_SERVICE_FS: "1"
+  MGOS_HAVE_RPC_SERVICE_GPIO: "1"
+  MGOS_HAVE_RPC_SERVICE_I2C: "1"
+  MGOS_HAVE_RPC_SERVICE_OTA: "1"
+  MGOS_HAVE_RPC_SERVICE_WIFI: "1"
+  MGOS_HAVE_RPC_UART: "1"
+  MGOS_HAVE_SHADOW: "1"
+  MGOS_HAVE_SNTP: "1"
+  MGOS_HAVE_SPI: "1"
+  MGOS_HAVE_VFS_DEV_SPI_FLASH: "1"
+  MGOS_HAVE_WIFI: "1"
+  MGOS_WIFI_ENABLE_AP_STA: "1"
+tags:
+- c
+libs_version: "1.25"
+modules_version: "1.25"
+mongoose_os_version: "1.25"
+manifest_version: 2017-05-18
+libs_handled:
+- name: adc
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/adc/esp32/src/esp32_adc.c
+- name: i2c
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/src/mgos_i2c.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/i2c/esp32/src/esp32_i2c_master.c
+- name: atca
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca
+  deps:
+  - i2c
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/atca/src/mgos_atca.c
+- name: ca-bundle
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ca-bundle/src/mgos_ca_bundle.c
+- name: mqtt
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/mqtt/src/mgos_mqtt.c
+- name: shadow
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/shadow/src/mgos_shadow.c
+- name: aws
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws
+  deps:
+  - ca-bundle
+  - mqtt
+  - shadow
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws_greengrass.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/aws/src/mgos_aws_shadow.c
+- name: bt-common
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/mgos_bt.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gap.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gattc.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-common/src/esp32/esp32_bt_gatts.c
+- name: bt-service-config
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-config
+  deps:
+  - bt-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-config/src/esp32/esp32_bt_svc_config.c
+- name: bt-service-debug
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-debug
+  deps:
+  - bt-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/bt-service-debug/src/esp32/esp32_bt_svc_debug.c
+- name: ota-shadow
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-shadow
+  deps:
+  - shadow
+- name: ethernet
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/mgos_eth.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ethernet/src/esp32/esp32_eth.c
+- name: wifi
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src/mgos_wifi.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/src/mjs_wifi.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/wifi/esp32/src/esp32_wifi.c
+- name: http-server
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server
+  deps:
+  - atca
+  - ethernet
+  - wifi
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/http-server/src/mgos_http_server.c
+- name: rpc-common
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common
+  deps:
+  - http-server
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel_http.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mg_rpc/mg_rpc_channel_ws.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-common/src/mgos_rpc.c
+- name: dash
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dash
+  deps:
+  - ota-shadow
+  - rpc-common
+  - shadow
+- name: dht
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dht/src/mgos_dht.c
+- name: dns-sd
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd
+  deps:
+  - http-server
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/dns-sd/src/mgos_dns_sd.c
+- name: esp32-touchpad
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/esp32-touchpad
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/esp32-touchpad/src/esp32_touchpad.c
+- name: gcp
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp
+  deps:
+  - ca-bundle
+  - mqtt
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/gcp/src/mgos_gcp.c
+- name: ota-http-client
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-client
+- name: ota-http-server
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/ota-http-server
+  deps:
+  - http-server
+  - ota-http-client
+- name: pppos
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pppos/src/mgos_pppos.c
+- name: pwm
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/mgos_pwm.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/pwm/src/esp32/esp32_pwm.c
+- name: rpc-gatts
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-gatts
+  deps:
+  - bt-common
+  - rpc-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-gatts/src/esp32/esp32_rpc_channel_gatts.c
+- name: rpc-loopback
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback
+  deps:
+  - rpc-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-loopback/src/mg_rpc_channel_loopback.c
+- name: rpc-mqtt
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt
+  deps:
+  - mqtt
+  - rpc-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-mqtt/src/mgos_rpc_channel_mqtt.c
+- name: rpc-service-atca
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-atca
+  deps:
+  - atca
+  - rpc-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-atca/src/mgos_atca_service.c
+- name: rpc-service-config
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config
+  deps:
+  - rpc-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-config/src/mgos_service_config.c
+- name: rpc-service-fs
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs
+  deps:
+  - rpc-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-fs/src/mgos_service_filesystem.c
+- name: rpc-service-gpio
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio
+  deps:
+  - rpc-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-gpio/src/mgos_gpio_service.c
+- name: rpc-service-i2c
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c
+  deps:
+  - i2c
+  - rpc-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-i2c/src/mgos_i2c_service.c
+- name: rpc-service-ota
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-ota
+  deps:
+  - ota-http-client
+  - rpc-common
+- name: rpc-service-wifi
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-wifi
+  deps:
+  - rpc-common
+  - wifi
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-service-wifi/src/mgos_rpc_service_wifi.c
+- name: rpc-uart
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart
+  deps:
+  - rpc-common
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/rpc-uart/src/mgos_rpc_channel_uart.c
+- name: sntp
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/sntp/src/mgos_sntp.c
+- name: spi
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/mgos_spi.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/mgos_spi_mjs.c
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/spi/src/esp32/esp32_spi_master.c
+- name: vfs-dev-spi-flash
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash
+  deps:
+  - spi
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/vfs-dev-spi-flash/src/mgos_vfs_dev_spi_flash.c
+- name: demo-bundle
+  path: /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/demo-bundle
+  deps:
+  - adc
+  - atca
+  - aws
+  - bt-service-config
+  - bt-service-debug
+  - ca-bundle
+  - dash
+  - dht
+  - dns-sd
+  - esp32-touchpad
+  - ethernet
+  - gcp
+  - http-server
+  - i2c
+  - ota-http-client
+  - ota-http-server
+  - ota-shadow
+  - pppos
+  - pwm
+  - rpc-gatts
+  - rpc-loopback
+  - rpc-mqtt
+  - rpc-service-atca
+  - rpc-service-config
+  - rpc-service-fs
+  - rpc-service-gpio
+  - rpc-service-i2c
+  - rpc-service-ota
+  - rpc-service-wifi
+  - rpc-uart
+  - shadow
+  - sntp
+  - spi
+  - vfs-dev-spi-flash
+  - wifi
+  sources:
+  - /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/deps/demo-bundle/src/mgos_demo_bundle.c

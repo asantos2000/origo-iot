@@ -1,0 +1,29 @@
+{
+  "device": {
+    "id": "esp8266_0DA84B"
+  },
+  "mqtt": {
+    "enable": true,
+    "server": "a46rm30dudful.iot.us-east-1.amazonaws.com:8883",
+    "ssl_cert": "aws-iot-9e49041b9f.crt.pem",
+    "ssl_key": "aws-iot-9e49041b9f.key.pem",
+    "ssl_ca_cert": "ca.pem"
+  },
+  "aws": {
+    "thing_name": "esp8266_0DA84B"
+  },
+  "wifi": {
+    "sta": {
+      "enable": true,
+      "ssid": "AndroidAS",
+      "pass": "90490000"
+    },
+    "ap": {
+      "enable": false
+    }
+  },
+  "dash": {
+    "enable": true,
+    "token": "7c7bc044583ed2ff77297926"
+  }
+}
