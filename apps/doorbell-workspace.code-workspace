@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "doorbell-c"
+		},
+		{
+			"path": "doorbell-j"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ios": "c",
+			"memory": "c",
+			"algorithm": "c",
+			"bitset": "c",
+			"mgos_mdns.h": "c",
+			"mgos_mqtt.h": "c",
+			"mgos.h": "c"
+		}
+	}
+}

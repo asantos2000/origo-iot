@@ -214,5 +214,8 @@
   ["spi.cs2_gpio", "i", {"title": "GPIO to use for CS2"}],
   ["pins", "o", {"title": "Pins layout"}],
   ["pins.led", "i", {"title": "LED GPIO pin"}],
-  ["pins.button", "i", {"title": "Button GPIO pin"}]
+  ["pins.button", "i", {"title": "Button GPIO pin"}],
+  ["topic", "o", {"title": "Topics used by ring the bell"}],
+  ["topic.event", "s", {"title": "Topic where event (ie. button push) will be published"}],
+  ["topic.config", "s", {"title": "Topic where runtime configuration will be received"}]
 ]

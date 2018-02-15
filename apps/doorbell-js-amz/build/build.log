@@ -1,0 +1,373 @@
+Handling lib "i2c"...
+Handling lib "spi"...
+Handling lib "ca-bundle"...
+Handling lib "mjs"...
+Handling lib "wifi"...
+Handling lib "rpc-service-fs"...
+Handling lib "rpc-uart"...
+Handling lib "rpc-service-config"...
+Handling lib "aws"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi" does not exist, cloning...
+
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs" does not exist, cloning...
+
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws" does not exist, cloning...
+
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi" does not exist, cloning...
+
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle" does not exist, cloning...
+
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs" does not exist, cloning...
+
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart" does not exist, cloning...
+
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config" does not exist, cloning...
+
+Hash is updated: "" -> "b44d6332b79f618864ab777a488849116a37ac8d"
+Hash is updated: "" -> "3a62b429da54f1691615b553df3587436e46e5ea"
+Hash is updated: "" -> "9c14f92c0507e91e8dcc2371572619ebba569ac9"
+Hash is updated: "" -> "8998e02517544b7d53ea517962f4384d8fce858b"
+Hash is updated: "" -> "86d280ae9fb3dd66192c1ac54753b9c7318e5fc7"
+Hash is updated: "" -> "d8e5db886afcb898553065c6a3a60d70f53ddfb6"
+Hash is updated: "" -> "46ce1e3737188910c4b1977f605bc26954bc865d"
+Hash is updated: "" -> "d7d559e33511530d21a37d8818af3eb5f853b23b"
+Falling back to sources for "wifi" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/wifi/releases/download/1.25/libwifi-esp8266.a)
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi"
+Hash is updated: "" -> "bfb1f9c5f4ab505d2f45def7e873de4d500b2eb8"
+Falling back to sources for "mjs" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/mjs/releases/download/1.25/libmjs-esp8266.a)
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs"
+Successfully fetched prebuilt binary for "ca-bundle" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/lib/esp8266/libca-bundle.a"
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle"
+Successfully fetched prebuilt binary for "rpc-service-fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/lib/esp8266/librpc-service-fs.a"
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs"
+Handling lib "rpc-common"...
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common" does not exist, cloning...
+
+Successfully fetched prebuilt binary for "rpc-service-config" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/lib/esp8266/librpc-service-config.a"
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config"
+Lib "rpc-common" is already handled, skipping
+Successfully fetched prebuilt binary for "rpc-uart" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/lib/esp8266/librpc-uart.a"
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart"
+Lib "rpc-common" is already handled, skipping
+Successfully fetched prebuilt binary for "aws" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/lib/esp8266/libaws.a"
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws"
+Lib "ca-bundle" is already handled, skipping
+Handling lib "mqtt"...
+Handling lib "shadow"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt" does not exist, cloning...
+
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow" does not exist, cloning...
+
+Successfully fetched prebuilt binary for "spi" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/lib/esp8266/libspi.a"
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi"
+Successfully fetched prebuilt binary for "i2c" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/lib/esp8266/libi2c.a"
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c"
+Hash is updated: "" -> "bc1acb6e354add795da2cbadcf17e36465c0b83b"
+Falling back to sources for "rpc-common" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/rpc-common/releases/download/1.25/librpc-common-esp8266.a)
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common"
+Lib "http-server" is optional, skipping
+Hash is updated: "" -> "7672cefe00e247141b70cb1fd8d3eef9eecb6a47"
+Hash is updated: "" -> "584da704fd6d662971315f2fcb25d2fcd3aee6ab"
+Successfully fetched prebuilt binary for "shadow" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/lib/esp8266/libshadow.a"
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow"
+Successfully fetched prebuilt binary for "mqtt" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/lib/esp8266/libmqtt.a"
+Prepared local dir: "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt"
+The flag --module is not given for the module "mjs_module", going to use the repository
+Repository "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module" does not exist, cloning...
+
+The flag --repo is not given, going to use mongoose-os repository
+Sources: [/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/deps_init.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/src/mgos_ca_bundle.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/src/mgos_mqtt.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/src/mgos_shadow.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src/mgos_aws.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src/mgos_aws_greengrass.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src/mgos_aws_shadow.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src/mgos_i2c.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src/common_gpio/mgos_i2c_gpio.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/src/mos_mjs.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/src/esp8266_mjs.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc_channel.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc_channel_http.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc_channel_ws.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mgos_rpc.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/src/mgos_service_config.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/src/mgos_service_filesystem.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/src/mgos_rpc_channel_uart.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/mgos_spi.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/mgos_spi_mjs.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/common_gpio/mgos_spi_gpio.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/src/mgos_wifi.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/src/mjs_wifi.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/esp8266/src/esp_wifi.c]
+Include dirs: [/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include/mg_rpc /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/include]
+Binary libs: []
+Building...
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948" to "/app"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mongoose-os" to "/mongoose-os"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mongoose-os" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mongoose-os"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src/common_gpio" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src/common_gpio"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/common_gpio" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/common_gpio"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/esp8266/src" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/esp8266/src"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include/mg_rpc" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include/mg_rpc"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/include" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/include"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/fs"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs/lib" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs/lib"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/mjs_fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/mjs_fs"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/mjs_fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/mjs_fs"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/mjs_fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/mjs_fs"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/mjs_fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/mjs_fs"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/mjs_fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/mjs_fs"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/mjs_fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/mjs_fs"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/mjs_fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/mjs_fs"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/fs" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/fs"
+mount from "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen" to "/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen"
+Docker arguments: run --name mos_build_2018-02-06T21-25-28-00_7289514455340435928 --rm -i -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs/lib:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs/lib -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/fs:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/fs -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/mjs_fs:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/mjs_fs -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/mjs_fs:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/mjs_fs -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/mjs_fs:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/mjs_fs -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src/common_gpio:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src/common_gpio -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mongoose-os:/mongoose-os -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/mjs_fs:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/mjs_fs -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/mjs_fs:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/mjs_fs -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/mjs_fs:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/mjs_fs -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/include:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/include -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mongoose-os:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mongoose-os -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/mjs_fs:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/mjs_fs -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/common_gpio:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/common_gpio -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/esp8266/src:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/esp8266/src -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include/mg_rpc:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include/mg_rpc -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/fs:/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/fs -v /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948:/app --user 0:0 docker.cesanta.com/esp8266-build:2.1.0-1.5.0-r8 /bin/bash -c nice make '-j' '16' '-C' '/app' '-f' '/mongoose-os/fw/platforms/esp8266/Makefile.build' 'all' 'MGOS_WIFI_ENABLE_AP_STA=1' 'MGOS_HAVE_MJS=1' 'MGOS_HAVE_RPC_SERVICE_CONFIG=1' 'FS_STAGING_DIR=build/fs' 'MANIFEST_FINAL=/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/mos_final.yml' 'MGOS_HAVE_WIFI=1' 'APP_FS_FILES=/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/fs/ca.pem /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_bitbang.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_config.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_events.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_gpio.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_grove.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_http.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_log.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_net.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_sys.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_timer.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_uart.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/init.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs/lib/api_dataview.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs/lib/api_file.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs/lib/api_math.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/mjs_fs/api_mqtt.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/mjs_fs/api_shadow.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/mjs_fs/api_aws.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/mjs_fs/api_i2c.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/mjs_fs/api_rpc.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/mjs_fs/api_spi.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/mjs_fs/api_wifi.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/fs/api_arch_uart.js /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/fs/api_esp8266.js' 'APP_CFLAGS=-DMGOS_ENABLE_RPC_CHANNEL_HTTP=1 -DMG_ENABLE_MQTT=1 -DMGOS_HAVE_I2C=1 -DMGOS_HAVE_RPC_SERVICE_FS=1 -DMGOS_HAVE_RPC_UART=1 -DMGOS_ENABLE_SYS_SERVICE=1 -DMGOS_HAVE_MQTT=1 -DMGOS_HAVE_MJS=1 -DMGOS_HAVE_CA_BUNDLE=1 -DMGOS_HAVE_RPC_COMMON=1 -DMGOS_HAVE_RPC_SERVICE_CONFIG=1 -DMGOS_HAVE_WIFI=1 -DMGOS_HAVE_SPI=1 -DMGOS_HAVE_AWS=1 -DMGOS_ENABLE_RPC_CHANNEL_WS=1 -DMG_ENABLE_DNS_SERVER=1 -DMGOS_WIFI_ENABLE_AP_STA=1 -DMGOS_HAVE_SHADOW=1' 'APP_CONF_SCHEMA=/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/mos_conf_schema.yml' 'MGOS_ENABLE_SPI_GPIO=1' 'MGOS_HAVE_RPC_SERVICE_FS=1' 'MGOS_HAVE_CA_BUNDLE=1' 'APP_SOURCES=/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/deps_init.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/src/mgos_ca_bundle.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/src/mgos_mqtt.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/src/mgos_shadow.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src/mgos_aws.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src/mgos_aws_greengrass.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src/mgos_aws_shadow.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src/mgos_i2c.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src/common_gpio/mgos_i2c_gpio.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/src/mos_mjs.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/src/esp8266_mjs.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc_channel.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc_channel_http.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc_channel_ws.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mgos_rpc.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/src/mgos_service_config.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/src/mgos_service_filesystem.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/src/mgos_rpc_channel_uart.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/mgos_spi.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/mgos_spi_mjs.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/common_gpio/mgos_spi_gpio.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/src/mgos_wifi.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/src/mjs_wifi.c /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/esp8266/src/esp_wifi.c' 'MGOS_HAVE_RPC_UART=1' 'APP_BIN_LIBS=' 'MGOS_HAVE_SHADOW=1' 'BUILD_DIR=/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs' 'APP_VERSION=1.0' 'MGOS_HAVE_MQTT=1' 'MGOS_HAVE_RPC_COMMON=1' 'FW_DIR=build/fw' 'GEN_DIR=/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen' 'MGOS_PATH=/mongoose-os' 'MGOS_ENABLE_I2C_GPIO=1' 'MGOS_HAVE_SPI=1' 'MGOS_HAVE_AWS=1' 'FFI_SYMBOLS=' 'APP_INCLUDES=/fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include/mg_rpc /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/include /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/include' 'MGOS_HAVE_I2C=1' 'APP=doorbell-js-amz' 'APP_CXXFLAGS=-DMGOS_ENABLE_SYS_SERVICE=1 -DMGOS_HAVE_MQTT=1 -DMGOS_HAVE_MJS=1 -DMGOS_HAVE_CA_BUNDLE=1 -DMGOS_HAVE_RPC_UART=1 -DMGOS_HAVE_RPC_COMMON=1 -DMGOS_HAVE_RPC_SERVICE_CONFIG=1 -DMGOS_ENABLE_RPC_CHANNEL_WS=1 -DMG_ENABLE_DNS_SERVER=1 -DMGOS_WIFI_ENABLE_AP_STA=1 -DMGOS_HAVE_SHADOW=1 -DMGOS_HAVE_WIFI=1 -DMGOS_HAVE_SPI=1 -DMGOS_HAVE_AWS=1 -DMGOS_ENABLE_RPC_CHANNEL_HTTP=1 -DMG_ENABLE_MQTT=1 -DMGOS_HAVE_I2C=1 -DMGOS_HAVE_RPC_SERVICE_FS=1' 'PLATFORM=esp8266'
+make: Entering directory '/app'
+  MKDIR /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs
+  MKDIR /app/build/fw
+  MKDIR /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/fw_temp
+CC esptool2.c
+  GEN   /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/mgos_config.c
+gcc -O2 -Wall -c esptool2.c -o /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esptool2.o
+CC esptool2_elf.c
+  GEN   /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/mgos_ro_vars.c
+gcc -O2 -Wall -c esptool2_elf.c -o /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esptool2_elf.o
+  GEN   /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/ffi_exports.c
+make[1]: warning: -jN forced in submake: disabling jobserver mode.
+make[1]: Entering directory '/app'
+  GEN   /mongoose-os/fw/platforms/esp8266/ld/non_os.ld (0xffff0 @ 0x40200010) -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/0x100000.ld
+  CC    ./src/core/dhcp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/dhcp.o
+  CC    ./src/netif/etharp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/etharp.o
+  CC    ./src/core/mem.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/mem.o
+  CC    ./src/core/sys_arch.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/sys_arch.o
+  CC    ./src/core/mdns.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/mdns.o
+  CC    ./src/core/init.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/init.o
+LD /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esptool2
+gcc -o /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esptool2 /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esptool2.o /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esptool2_elf.o
+  CC    ./src/core/memp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/memp.o
+  CC    ./src/core/sys.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/sys.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_cache.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_cache.c.o
+CC rboot-stage2a.c
+  CC    ./src/core/tcp_in.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/tcp_in.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/deps_init.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/deps_init.c.o
+  CC    ./src/core/dns.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/dns.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/src/mgos_ca_bundle.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_ca_bundle.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/src/mgos_mqtt.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_mqtt.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/src/mgos_shadow.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_shadow.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src/mgos_aws.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_aws.c.o
+LD /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/rboot/rboot-stage2a.elf
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src/mgos_aws_greengrass.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_aws_greengrass.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/src/mgos_aws_shadow.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_aws_shadow.c.o
+E2 /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/rboot-hex2a.h
+CC rboot.c
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src/mgos_i2c.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_i2c.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/src/mos_mjs.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mos_mjs.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/src/common_gpio/mgos_i2c_gpio.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_i2c_gpio.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mjs.c.o
+  CC    ./src/core/raw.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/raw.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/src/esp8266_mjs.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp8266_mjs.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mg_rpc.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc_channel.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mg_rpc_channel.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc_channel_http.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mg_rpc_channel_http.c.o
+LD /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/rboot/rboot.elf
+  CC    ./src/core/tcp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/tcp.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mg_rpc/mg_rpc_channel_ws.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mg_rpc_channel_ws.c.o
+E2 /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/rboot/rboot.bin
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/src/mgos_rpc.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_rpc.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-config/src/mgos_service_config.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_service_config.c.o
+  CC    ./src/core/sntp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/sntp.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-service-fs/src/mgos_service_filesystem.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_service_filesystem.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-uart/src/mgos_rpc_channel_uart.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_rpc_channel_uart.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/mgos_spi.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_spi.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/mgos_spi_mjs.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_spi_mjs.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/src/common_gpio/mgos_spi_gpio.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_spi_gpio.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/src/mgos_wifi.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_wifi.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/src/mjs_wifi.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mjs_wifi.c.o
+  CC    ./src/core/def.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/def.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/ffi_exports.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/ffi_exports.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/esp8266/src/esp_wifi.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_wifi.c.o
+  CC    /mongoose-os/common/cs_file.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/cs_file.c.o
+  CC    /mongoose-os/fw/src/mgos_config_util.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_config_util.c.o
+  CC    /mongoose-os/common/cs_rbuf.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/cs_rbuf.c.o
+  CC    /mongoose-os/fw/src/mgos_core_dump.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_core_dump.c.o
+  CC    ./src/core/netif.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/netif.o
+  CC    /mongoose-os/fw/src/mgos_dlsym.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_dlsym.c.o
+  CC    /mongoose-os/fw/src/mgos_event.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_event.c.o
+  CC    ./src/core/stats.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/stats.o
+  CC    /mongoose-os/fw/src/mgos_gpio.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_gpio.c.o
+  CC    ./src/core/timers.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/timers.o
+  CC    /mongoose-os/fw/src/mgos_init.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_init.c.o
+  CC    /mongoose-os/fw/src/mgos_hw_timers.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_hw_timers.c.o
+  CC    /mongoose-os/fw/src/mgos_time.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_time.c.o
+  CC    /mongoose-os/fw/src/mgos_timers.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_timers.c.o
+  CC    /mongoose-os/fw/src/mgos_mmap_esp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_mmap_esp.c.o
+  CC    /mongoose-os/fw/src/mgos_mongoose.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_mongoose.c.o
+  CC    ./src/core/pbuf.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/pbuf.o
+  CC    /mongoose-os/fw/src/mgos_sys_config.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_sys_config.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/mgos_config.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_config.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/mgos_ro_vars.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_ro_vars.c.o
+  CC    ./src/core/udp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/udp.o
+  CC    /mongoose-os/fw/src/mgos_system.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_system.c.o
+  CC    ./src/core/tcp_out.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/tcp_out.o
+  CC    /mongoose-os/fw/src/mgos_uart.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_uart.c.o
+  CC    /mongoose-os/fw/src/mgos_utils.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_utils.c.o
+  CC    /mongoose-os/fw/src/mgos_vfs.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_vfs.c.o
+  CC    /mongoose-os/fw/src/mgos_vfs_dev.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_vfs_dev.c.o
+  CC    /mongoose-os/fw/src/mgos_vfs_dev_ram.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_vfs_dev_ram.c.o
+  CC    /mongoose-os/fw/src/mgos_vfs_fs_spiffs.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_vfs_fs_spiffs.c.o
+  CC    /mongoose-os/common/cs_crc32.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/cs_crc32.c.o
+  CC    /mongoose-os/common/platforms/esp8266/rboot/rboot/appcode/rboot-bigflash.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/rboot-bigflash.c.o
+  CC    /mongoose-os/common/platforms/esp8266/rboot/rboot/appcode/rboot-api.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/rboot-api.c.o
+  CC    /mongoose-os/common/json_utils.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/json_utils.c.o
+  CC    ./src/core/ipv4/ip_frag.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/ip_frag.o
+  CC    /mongoose-os/common/umm_malloc/umm_malloc.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/umm_malloc.c.o
+  CC    /mongoose-os/mongoose/mongoose.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mongoose.c.o
+  CC    ./src/core/ipv4/inet.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/inet.o
+  CC    /mongoose-os/frozen/frozen.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/frozen.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_config.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_config.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_coredump.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_coredump.c.o
+  CC    ./src/core/ipv4/ip_addr.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/ip_addr.o
+  CC    ./src/core/ipv4/igmp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/igmp.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_debug.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_debug.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_exc.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_exc.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_flash_writer.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_flash_writer.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_fs.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_fs.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_gpio.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_gpio.c.o
+  CC    ./src/core/ipv4/ip.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/ip.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_hal.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_hal.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_heap_trace.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_heap_trace.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_hw_timers.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_hw_timers.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_libc.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_libc.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_hw_wdt.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_hw_wdt.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_main.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_main.c.o
+  CC    ./src/core/ipv4/autoip.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/autoip.o
+  CC    ./src/core/ipv4/inet_chksum.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/inet_chksum.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_mdns.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_mdns.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_periph.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_periph.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_uart.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_uart.c.o
+  CC    ./src/core/ipv4/icmp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/icmp.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_updater.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_updater.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_vfs_dev_sysflash.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_vfs_dev_sysflash.c.o
+  CC    ./src/api/netdb.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/netdb.o
+  CC    /mongoose-os/common/spiffs/spiffs_cache.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/spiffs_cache.c.o
+  CC    /mongoose-os/common/spiffs/spiffs_gc.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/spiffs_gc.c.o
+  CC    /mongoose-os/common/spiffs/spiffs_nucleus.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/spiffs_nucleus.c.o
+  CC    /mongoose-os/common/spiffs/spiffs_check.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/spiffs_check.c.o
+  CC    /mongoose-os/common/spiffs/spiffs_hydrogen.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/spiffs_hydrogen.c.o
+  CC    /mongoose-os/common/platforms/esp8266/esp_crypto.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_crypto.c.o
+  CC    ./src/api/api_lib.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/api_lib.o
+  CC    ./src/api/netifapi.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/netifapi.o
+  CC    /mongoose-os/common/platforms/esp8266/esp_umm_malloc.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_umm_malloc.c.o
+  CC    ./src/api/tcpip.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/tcpip.o
+  CC    /mongoose-os/fw/src/mgos_debug.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_debug.c.o
+  CC    ./src/api/netbuf.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/netbuf.o
+  CC    ./src/api/err.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/err.o
+  CC    /mongoose-os/fw/src/mgos_bitbang.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_bitbang.c.o
+  CC    /mongoose-os/fw/src/mgos_net.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mgos_net.c.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_exc_non_os.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_exc_non_os.c.o
+  CC    ./src/api/sockets.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/sockets.o
+  CC    ./src/api/api_msg.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/api_msg.o
+  AS    /mongoose-os/fw/platforms/esp8266/src/esp_exc_vectors.S -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_exc_vectors.S.o
+  CC    ./espressif/app/espconn.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/espconn.o
+  AS    /mongoose-os/fw/platforms/esp8266/src/esp_nsleep100.S -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/esp_nsleep100.S.o
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/ca-bundle/fs/ca.pem -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_bitbang.js -> build/fs
+  CC    ./espressif/app/espconn_buf.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/espconn_buf.o
+  CC    ./espressif/app/netio.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/netio.o
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_config.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_events.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_gpio.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_grove.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_http.js -> build/fs
+  CC    ./espressif/app/espconn_tcp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/espconn_tcp.o
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_log.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_net.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_sys.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_timer.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/api_uart.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/fs/init.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs/lib/api_dataview.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs/lib/api_file.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/modules/mjs_module/mjs/lib/api_math.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mqtt/mjs_fs/api_mqtt.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/shadow/mjs_fs/api_shadow.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/aws/mjs_fs/api_aws.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/i2c/mjs_fs/api_i2c.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/rpc-common/mjs_fs/api_rpc.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/spi/mjs_fs/api_spi.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/wifi/mjs_fs/api_wifi.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/fs/api_arch_uart.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/libs/mjs/esp8266/fs/api_esp8266.js -> build/fs
+  CP    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/conf0.json -> build/fs
+  MKFS  /usr/local/bin/mkspiffs8 262144 4096 256 4096 build/fs -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/fw_temp/fs.bin
+     Adding api_file.js: 2105
+     Adding ca.pem: 17334
+     Adding conf0.json: 2942
+     Adding api_math.js: 1890
+     Adding api_esp8266.js: 231
+     Adding api_dataview.js: 7433
+     Adding api_wifi.js: 1020
+     Adding api_grove.js: 2327
+     Adding api_aws.js: 3624
+     Adding api_http.js: 3812
+     Adding api_bitbang.js: 815
+     Adding api_timer.js: 1736
+     Adding init.js: 397
+     Adding api_config.js: 2170
+     Adding api_mqtt.js: 2766
+     Adding api_spi.js: 3980
+     Adding api_shadow.js: 1678
+     Adding api_sys.js: 1641
+     Adding api_arch_uart.js: 651
+     Adding api_gpio.js: 2731
+     Adding api_log.js: 2005
+     Adding api_events.js: 3398
+     Adding api_net.js: 5122
+     Adding api_uart.js: 5772
+     Adding api_i2c.js: 4884
+     Adding api_rpc.js: 2741
+     Image stats: size=262144, space: total=233681, used=94627, free=139054
+  CC    ./espressif/app/ping.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/ping.o
+  CC    ./espressif/app/dhcpserver.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/dhcpserver.o
+  CC    ./espressif/app/espconn_mdns.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/espconn_mdns.o
+  CC    ./espressif/app/espconn_udp.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/espconn_udp.o
+  AR /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/lwip/liblwip_cs.a
+make[1]: Leaving directory '/mongoose-os/common/platforms/esp8266/lwip'
+  GEN   /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/build_info.c
+  GEN   /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/mg_build_info.c
+  AR    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mongoose-os.a
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/mg_build_info.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/mg_build_info.c.o
+  CC    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/gen/build_info.c -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/build_info.c.o
+  LD    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/doorbell-js-amz.elf
+  FW    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/doorbell-js-amz.elf -> /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/doorbell-js-amz.bin
+  Generating breakdown
+  GEN    /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/fw_temp/manifest.json
+  ZIP    /app/build/fw/doorbell-js-amz-esp8266-last.zip
+     Adding /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/fw_temp/doorbell-js-amz.bin
+     Adding /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/fw_temp/esp_init_data_default_v08.bin
+     Adding /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/fw_temp/fs.bin
+     Adding /fwbuild-volumes/1.25/apps/doorbell-js-amz/esp8266/build_contexts/build_ctx_874497948/build/objs/fw_temp/rboot.bin
+  Built doorbell-js-amz/esp8266 version 1.0 (20180206-212531/???)
+make: Leaving directory '/app'
+Success, built doorbell-js-amz/esp8266 version 1.0 (20180206-212531/???).
+Firmware saved to build/fw.zip

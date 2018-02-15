@@ -3,8 +3,8 @@
 #include <stddef.h>
 #include "mgos_config.h"
 
-const struct mgos_conf_entry mgos_config_schema_[217] = {
-  {.type = CONF_TYPE_OBJECT, .key = "", .num_desc = 216},
+const struct mgos_conf_entry mgos_config_schema_[220] = {
+  {.type = CONF_TYPE_OBJECT, .key = "", .num_desc = 219},
   {.type = CONF_TYPE_OBJECT, .key = "update", .num_desc = 8},
   {.type = CONF_TYPE_INT, .key = "timeout", .offset = offsetof(struct mgos_config, update.timeout)},
   {.type = CONF_TYPE_INT, .key = "commit_timeout", .offset = offsetof(struct mgos_config, update.commit_timeout)},
@@ -221,6 +221,9 @@ const struct mgos_conf_entry mgos_config_schema_[217] = {
   {.type = CONF_TYPE_OBJECT, .key = "pins", .num_desc = 2},
   {.type = CONF_TYPE_INT, .key = "led", .offset = offsetof(struct mgos_config, pins.led)},
   {.type = CONF_TYPE_INT, .key = "button", .offset = offsetof(struct mgos_config, pins.button)},
+  {.type = CONF_TYPE_OBJECT, .key = "topic", .num_desc = 2},
+  {.type = CONF_TYPE_STRING, .key = "event", .offset = offsetof(struct mgos_config, topic.event)},
+  {.type = CONF_TYPE_STRING, .key = "config", .offset = offsetof(struct mgos_config, topic.config)},
 };
 
 const struct mgos_conf_entry *mgos_config_schema() {
@@ -879,6 +882,15 @@ int         mgos_config_get_pins_led(struct mgos_config *cfg) {
 int         mgos_config_get_pins_button(struct mgos_config *cfg) {
   return cfg->pins.button;
 }
+const struct mgos_config_topic *mgos_config_get_topic(struct mgos_config *cfg) {
+  return &cfg->topic;
+}
+const char *mgos_config_get_topic_event(struct mgos_config *cfg) {
+  return cfg->topic.event;
+}
+const char *mgos_config_get_topic_config(struct mgos_config *cfg) {
+  return cfg->topic.config;
+}
 /* }}} */
 
 /* Setters {{{ */
@@ -1439,5 +1451,11 @@ void mgos_config_set_pins_led(struct mgos_config *cfg, int         val) {
 }
 void mgos_config_set_pins_button(struct mgos_config *cfg, int         val) {
   cfg->pins.button = val;
+}
+void mgos_config_set_topic_event(struct mgos_config *cfg, const char *val) {
+  mgos_conf_set_str(&cfg->topic.event, val);
+}
+void mgos_config_set_topic_config(struct mgos_config *cfg, const char *val) {
+  mgos_conf_set_str(&cfg->topic.config, val);
 }
 /* }}} */

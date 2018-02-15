@@ -1,6 +1,6 @@
 /*
  * Generated file - do not edit.
- * Command: /mongoose-os/fw/tools/gen_sys_config.py --c_name=mgos_config --c_global_name=mgos_sys_config --dest_dir=/Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/ /mongoose-os/fw/src/mgos_debug_udp_config.yaml /mongoose-os/fw/src/mgos_updater_config.yaml /mongoose-os/fw/src/mgos_sys_config.yaml /mongoose-os/fw/platforms/esp32/src/esp32_sys_config.yaml /Users/anderson/Dropbox/anderson-cloud/apps/doorbell-c/build/gen/mos_conf_schema.yml
+ * Command: /mongoose-os/fw/tools/gen_sys_config.py --c_name=mgos_config --c_global_name=mgos_sys_config --dest_dir=/fwbuild-volumes/1.26/apps/doorbell-c/esp32/build_contexts/build_ctx_683878735/build/gen/ /mongoose-os/fw/src/mgos_debug_udp_config.yaml /mongoose-os/fw/src/mgos_updater_config.yaml /mongoose-os/fw/src/mgos_sys_config.yaml /mongoose-os/fw/platforms/esp32/src/esp32_sys_config.yaml /fwbuild-volumes/1.26/apps/doorbell-c/esp32/build_contexts/build_ctx_683878735/build/gen/mos_conf_schema.yml
  */
 
 #ifndef MGOS_CONFIG_H_
@@ -297,6 +297,11 @@ struct mgos_config_pins {
   int button;
 };
 
+struct mgos_config_topic {
+  char *event;
+  char *config;
+};
+
 struct mgos_config {
   struct mgos_config_update update;
   struct mgos_config_device device;
@@ -319,6 +324,7 @@ struct mgos_config {
   struct mgos_config_sntp sntp;
   struct mgos_config_spi spi;
   struct mgos_config_pins pins;
+  struct mgos_config_topic topic;
 };
 
 /* Parametrized accessor prototypes {{{ */
@@ -538,6 +544,9 @@ int         mgos_config_get_spi_cs2_gpio(struct mgos_config *cfg);
 const struct mgos_config_pins *mgos_config_get_pins(struct mgos_config *cfg);
 int         mgos_config_get_pins_led(struct mgos_config *cfg);
 int         mgos_config_get_pins_button(struct mgos_config *cfg);
+const struct mgos_config_topic *mgos_config_get_topic(struct mgos_config *cfg);
+const char *mgos_config_get_topic_event(struct mgos_config *cfg);
+const char *mgos_config_get_topic_config(struct mgos_config *cfg);
 
 void mgos_config_set_update_timeout(struct mgos_config *cfg, int         val);
 void mgos_config_set_update_commit_timeout(struct mgos_config *cfg, int         val);
@@ -725,6 +734,8 @@ void mgos_config_set_spi_cs1_gpio(struct mgos_config *cfg, int         val);
 void mgos_config_set_spi_cs2_gpio(struct mgos_config *cfg, int         val);
 void mgos_config_set_pins_led(struct mgos_config *cfg, int         val);
 void mgos_config_set_pins_button(struct mgos_config *cfg, int         val);
+void mgos_config_set_topic_event(struct mgos_config *cfg, const char *val);
+void mgos_config_set_topic_config(struct mgos_config *cfg, const char *val);
 /* }}} */
 
 extern struct mgos_config mgos_sys_config;
@@ -945,6 +956,9 @@ static inline int         mgos_sys_config_get_spi_cs2_gpio(void) { return mgos_c
 static inline const struct mgos_config_pins *mgos_sys_config_get_pins(void) { return mgos_config_get_pins(&mgos_sys_config); }
 static inline int         mgos_sys_config_get_pins_led(void) { return mgos_config_get_pins_led(&mgos_sys_config); }
 static inline int         mgos_sys_config_get_pins_button(void) { return mgos_config_get_pins_button(&mgos_sys_config); }
+static inline const struct mgos_config_topic *mgos_sys_config_get_topic(void) { return mgos_config_get_topic(&mgos_sys_config); }
+static inline const char *mgos_sys_config_get_topic_event(void) { return mgos_config_get_topic_event(&mgos_sys_config); }
+static inline const char *mgos_sys_config_get_topic_config(void) { return mgos_config_get_topic_config(&mgos_sys_config); }
 
 static inline void mgos_sys_config_set_update_timeout(int         val) { mgos_config_set_update_timeout(&mgos_sys_config, val); }
 static inline void mgos_sys_config_set_update_commit_timeout(int         val) { mgos_config_set_update_commit_timeout(&mgos_sys_config, val); }
@@ -1132,6 +1146,8 @@ static inline void mgos_sys_config_set_spi_cs1_gpio(int         val) { mgos_conf
 static inline void mgos_sys_config_set_spi_cs2_gpio(int         val) { mgos_config_set_spi_cs2_gpio(&mgos_sys_config, val); }
 static inline void mgos_sys_config_set_pins_led(int         val) { mgos_config_set_pins_led(&mgos_sys_config, val); }
 static inline void mgos_sys_config_set_pins_button(int         val) { mgos_config_set_pins_button(&mgos_sys_config, val); }
+static inline void mgos_sys_config_set_topic_event(const char *val) { mgos_config_set_topic_event(&mgos_sys_config, val); }
+static inline void mgos_sys_config_set_topic_config(const char *val) { mgos_config_set_topic_config(&mgos_sys_config, val); }
 
 
 const struct mgos_conf_entry *mgos_config_schema();

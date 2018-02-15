@@ -53,7 +53,7 @@
     "scl_gpio": 33
   }, 
   "mqtt": {
-    "enable": false, 
+    "enable": true, 
     "server": "iot.eclipse.org:1883", 
     "client_id": "", 
     "user": "", 
@@ -111,9 +111,9 @@
   }, 
   "wifi": {
     "sta": {
-      "enable": false, 
-      "ssid": "", 
-      "pass": "", 
+      "enable": true, 
+      "ssid": "tiberio-base-wifi", 
+      "pass": "dias291611", 
       "user": "", 
       "anon_identity": "", 
       "cert": "", 
@@ -126,7 +126,7 @@
       "dhcp_hostname": ""
     }, 
     "ap": {
-      "enable": true, 
+      "enable": false, 
       "ssid": "Mongoose_??????", 
       "pass": "Mongoose", 
       "hidden": false, 
@@ -196,7 +196,7 @@
     "ota_chunk_size": 1024
   }, 
   "dns_sd": {
-    "enable": false, 
+    "enable": true, 
     "host_name": "mOS_esp32_??????", 
     "txt": "", 
     "ttl": 120
@@ -244,5 +244,9 @@
   "pins": {
     "led": 21, 
     "button": 0
+  }, 
+  "topic": {
+    "event": "/devices/esp8266_D6F626/events", 
+    "config": "/devices/esp8266_D6F626/config"
   }
 }

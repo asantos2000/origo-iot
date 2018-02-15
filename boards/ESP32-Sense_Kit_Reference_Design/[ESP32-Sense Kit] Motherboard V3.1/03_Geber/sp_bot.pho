@@ -1,0 +1,93 @@
+*
+*
+G04 PADS VX.2 Build Number: 5060570 generated Gerber (RS-274-X) file*
+G04 PC Version=2.1*
+*
+%IN "ESP32-Sense-Series-Main"*%
+*
+%MOIN*%
+*
+%FSLAX35Y35*%
+*
+*
+*
+*
+G04 PC Standard Apertures*
+*
+*
+G04 Thermal Relief Aperture macro.*
+%AMTER*
+1,1,$1,0,0*
+1,0,$1-$2,0,0*
+21,0,$3,$4,0,0,45*
+21,0,$3,$4,0,0,135*
+%
+*
+*
+G04 Annular Aperture macro.*
+%AMANN*
+1,1,$1,0,0*
+1,0,$2,0,0*
+%
+*
+*
+G04 Odd Aperture macro.*
+%AMODD*
+1,1,$1,0,0*
+1,0,$1-0.005,0,0*
+%
+*
+*
+G04 PC Custom Aperture Macros*
+*
+*
+*
+*
+*
+*
+G04 PC Aperture Table*
+*
+%ADD010C,0.001*%
+%ADD014C,0.004*%
+*
+*
+*
+*
+G04 PC Circuitry*
+G04 Layer Name ESP32-Sense-Series-Main - circuitry*
+%LPD*%
+*
+*
+G04 PC Custom Flashes*
+G04 Layer Name ESP32-Sense-Series-Main - flashes*
+%LPD*%
+*
+*
+G04 PC Circuitry*
+G04 Layer Name ESP32-Sense-Series-Main - circuitry*
+%LPD*%
+*
+G54D10*
+G54D14*
+G01X2089568Y1629839D02*
+G75*
+G03X2083435Y1635741I-6017J-115D01*
+G01X2083439D02*
+X2007704D01*
+Y1611603*
+X1936304*
+Y1635704*
+X1833353Y1635740*
+G03X1830427Y1632814I-0J-2926*
+G01Y1632815D02*
+Y1200923D01*
+G03X1836332Y1195017I5905J-0*
+G01X2083439*
+X2083435D02*
+G03X2089568Y1200919I116J6017D01*
+G01Y1200923D02*
+Y1242905D01*
+Y1629835*
+G74*
+X0Y0D02*
+M02*

@@ -2,5 +2,5 @@
   "arch": "esp32",
   "platform": "esp32",
   "app_name": "doorbell-c",
-  "build_time_ms": 801128
+  "build_time_ms": 49946
 }

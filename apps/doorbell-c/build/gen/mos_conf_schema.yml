@@ -714,3 +714,32 @@
   - 0
 - - mqtt.server
   - iot.eclipse.org:1883
+- - mqtt.enable
+  - true
+- - wifi.sta.enable
+  - true
+- - wifi.ap.enable
+  - false
+- - wifi.sta.ssid
+  - tiberio-base-wifi
+- - wifi.sta.pass
+  - dias291611
+- - topic
+  - o
+  - title: Topics used by ring the bell
+- - topic.event
+  - s
+  - /devices/esp8266_D6F626/events
+  - title: Topic where event (ie. button push) will be published
+- - topic.config
+  - s
+  - /devices/esp8266_D6F626/config
+  - title: Topic where runtime configuration will be received
+- - dns_sd.enable
+  - true
+- - dns_sd.host_name
+  - mOS_esp32_??????
+- - dns_sd.txt
+  - ""
+- - dns_sd.ttl
+  - 120
